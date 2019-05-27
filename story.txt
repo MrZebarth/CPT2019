@@ -622,42 +622,234 @@ He apologizes for starting the rock-fall and offers you his hand to shake.
 You tell Throm that maybe he should use sign language in future, even for laughing!
 You both smile and head east once more.
 <119>
+Ahead you can see a large obstruction on the tunnel floor, although it is too dark to make out exactly what it is.
+The wet footprints you have been following carry on towards the obstruction.
+If you want to continue east, type 1.
+If you would rather go back to the junction and head west, type 2.
 <120>
+Lying in a hole about a metre deep, you see a grappling iron and a leather pouch. 
+If you wish to reach down for them, type 1.
+If you would rather ignore them and continue north, type 2.
 <121>
+The Dwarf looks at the dice. 'Not very good at playing the odds, are you?'he sneers. 
+'I regret you must suffer a penalty before you can continue.'
+From out of his pocket he produces two pills.
+One is stamped with the letter S and the other stamped with the letter L. 
+He asks you to choose one and swallow it.
+If you wish to swallow the pill stamped with the letter S, type 1.
+If you wish to swallow the other pill, type 2.
 <122>
+In front of you are two flights of stone steps separated by a banister of rat skulls.
+You may climb the left-hand flight of steps (Type 1).
+or the right-hand flight of steps (Type 2).
 <123>
+The necklace is an amulet of strength.
+Add 1 SKILL point and 1 STAMINA point and continue your quest.
 <124>
+You throw the trapdoor open and run up the steps into a bright, lantern-lit room. 
+Two GOBLINS are sharpening their short swords on a stone set in the middle of the floor. 
+You catch them momentarily off guard, but they quickly recover and both rush forward to attack you.
+First GOBLIN	Skill: 5	Stamina:4
+Second GOBLIN	Skill: 5	Stamina: 5
 <125>
+You tiptoe towards the door while Ivy prattles on.
+TEST YOUR LUCK.
 <126>
+The pouch on the Barabarian's belt is empty apart from some strange-looking dried meat wrapped in a cloth.
+Will you:
+Eat the dried meat? Type 1.
+Leave the meat and walk over to the alcove (if you have not done so already?) Type 2
+Leave the chamber and head west? Type 3.
 <127>
+The only possible way out of the hall as far as you can see is by using the chute in the northern wall.
+You decide to give it a go and climb into the chute.
+You slide gently down and emerge into another room, landing on your back.
 <128>
+At the back of the alcove are some steps leading down into a cellar. 
+Cobwebs brush your face as you descend. 
+The cellar ceiling is quite low, and the floor is strewn with rubbish and debris. 
+In the middle of the wall opposite you is an archway which leads into another crystal lit tunnel. 
+There are large mushrooms growing on the rubbish to your right. 
+If you wish to step through the archway, type 1. 
+If you wish to stop to eat some of the mushrooms,type 2.
 <129>
+You tie the rope to the grappling iron and hurl it over the top of the wall. 
+Its hooks dig into the stone and you begin to haul yourself up. 
+Peering over the top of the wall, you see an enormous dinosaur-like monster thrashing about in a sand-covered pit. 
+Its tough hide is a mottled green colour, and it stands some ten metres tall on its muscular hind legs. 
+Rows of razor-sharp teeth line its gigantic jaws, which open and close with bone-snapping power.
+There is a large double door in the wall on the far side of the pit, which appears 
+to be the only way out of this section of the dungeon.
+Will you:
+Lower yourself down on the rope into the pit to fight the PIT FIEND? Type 1
+Throw your bone monkey charm into the pit (if you have one)? Type 2
+Try to hook the PIT FIEND with the grappling iron while sitting on top of the wall? Type 3.
 <130>
+The Hobgoblins stop their fight immediately. They do not understand what you are saying and snarl at you viciously.
+Then they draw their short swords and run forward to attack you. Fight them one at a time.
+First HOBGOBLIN		Skill: 7	Stamina: 5
+Second HOBGOBLIN	Skill: 6	Stamina: 5
 <131>
+The crossbow bolts fly over your head and thud into the opposite wall; 
+fortunately, you are still crouching on the floor. 
+Now that the trap has been sprung, you can leave the room by the door through 
+which you entered. Back in the tunnel you head on west.
 <132>
+You just have time to hear the Gnome say, 'One crown and two skulls', 
+before a white bolt of energy shoots out from the lock into your chest and knocks you unconscious. 
+Roll one die, add 1 to the number and reduce your STAMINA by the total.
+If you are still alive, you come to and are told by the Gnome to try again. 
+You know you placed one gem in the correct slot, but which one? 
+You sigh and tentatively try a new combination.
+1) Emerald		Diamond		Sapphire
+2) Diamond		Sapphire	Emerald
+3) Sapphire		Emerald		Diamond
+4) Emerald		Sapphire	Diamond
+5) Diamond		Emerald		Sapphire
+6) Sapphire		Diamond		Emerald
 <133>
+Once again, the mysterious voice calls out, only this time its tone is full of contempt and derision.
+'So, we have a snivelling weed in our midst, do we?' sneers the voice.
+'My master has a special gift for you, loathsome creep.'
+Suddenly water starts pouring into the room through a hole in the ceiling.
+It soon rises above your ankles, and there is no apparent way of escape.
+You wade back to the door. It is firmly locked, but in desperation you try ramming it with your shoulder.
+Roll two dice and see if it is greater than your SKILL.
 <134>
+The tunnel leads into a large room, its ceiling supported by several marble pillars.
+As you enter the room, you suddenly see a strange beast to your right.
+It has the body of a lion with dragon-like wings attached to it, but its head is like that of an old bearded man.
+Have you read the poem written on the Skeleton Warrior's parchment?
 <135>
+Passing the Rock Grub's borehole on your left, you soon arrive at the junction.
+You take a quick look down the tunnel leading south, but do not see anybody approaching.
+Quickening your step, you hurry on east.
 <136>
+The door opens into another tunnel, which rises gently into the distance. 
+After walking uphill for a while, the tunnel levels out and you soon arrive at a door in the right hand wall, 
+to which a withered hand is nailed.
+If you wish to open the door, type 1.
+If you would rather continue north, type 2.
 <137>
+Walking along the tunnel, you are surprised to see a large iron bell hanging down from the ceiling. 
+If you wish to ring the bell, type 1.
+If you would rather walk around it and continue west, type 2.
 <138>
+The books pages are sealed together, but a small hole has been cut out in the middle of them, 
+just large enough to hold a small corked bottle containing a clear liquid. 
+You show it to Throm, who holds up his hand, indicating that he does not want you to come anywhere near him with it; 
+his distrust of things unknown is strongly evident. Will you:
+Drink the liquid? Type 1
+Rub the liquid into your wounds? Type 2
+Open the red book (if you have not done so already)? Type 3
+Leave the bottle and book to continue north with Throm? Type 4
 <139>
+As you try to escape, Ivy whirls round and picks up a broken stool.
+She is angry and attacks you ferociously.
+Lose 2 STAMINA points.
+If you are still alive, you manage to draw your sword and fight back.
+IVY		Skill: 9	Stamina: 9
 <140>
+You try to force the point of your sword under the emerald eye. Much to your surprise, it shatters on contact, releasing a jet of poisonous gas straight into your face.
+The gas knocks you out and you fall backwards, bouncing down the idol to land on the floor.
+Your adventure ends here.
 <141>
+The Mirror Demon is almost on top of you when, summoning all your strength,
+you strike one final blow against the mirror with your sword.
+Roll two dice and see if the total is greater than your SKILL.
 <142>
+There is a new branch in the tunnel on your left, and ahead you see two bodies lying on the floor.
+You stop and peer down the new tunnel, but seeing no doors or creatures you decide against walking down it.
+With your sword drawn, you walk over to where the bodies lie.
 <143>
+You call out to the Dwarf telling him to send in the SCORPION because you are ready to fight. 
+Slowly the wooden door rises, and a huge, grotesque black Scorpion squeezes underneath it and enters the room. 
+You draw your sword in readiness and prepare to fight the sinister creature with its huge pincers and deadly sting
+GIANT SCORPION	Skill 10	Stamina 10
+
+The Scorpion attacks you with both pincers, and you must treat each pincer as a separate creature as though you were fighting two creatures.
+Both pincers have a SKILL of 10 and will attack you separately in each Attack Round, but you must choose which of the two you will fight.
+Attack one pincer as in a normal battle.
+Against the other pincer, you will not wound it but you might fend off its blow.
 <144>
+Still smiling, the old man looks at you and says quietly, 'Wrong'.
 <145>
+The Dwarf is expecting your move. Furthermore, you are not as fast as you should be because of your recent ordeal, 
+so he easily evades your punch, saying 'I could kill you now if I wished, but I yearn for a hand-to-hand fight.'
+Then he throws down his crossbow and draws an axe from his belt. 
+Despite your fatigue, you think only of vengeance.
+DWARF	Skill: 8	Stamina: 6
+During each Attack Round, your Attack Strength will be reduced by 2 because of your condition.
 <146>
+The pain in your lungs forces you to rise to the surface for air. 
+Fortunately none of the Troglodytes see you and they all disperse. 
+You climb out of the river and cross the bridge to the northern bank. 
+Any remaining Provisions you may have are now inedible.
+You continue to walk through the vast cavern until at last you see a tunnel in the far wall. 
+You walk down it until you come to a heavy wooden door which is locked. 
+Do you have an iron key?
 <147>
+The water in the bamboo pipe is welcomingly refreshing.
+Add 1 Stamina point.
+It also contains a magical solution which will enable you to be exposed to melting-point temperatures without harm.
+Discarding the bamboo, you start off north again in good spirits.
 <148>
+There is nowhere to go except down the steps towards the barking dogs. 
+You reach the bottom and, with your sword drawn, face the two huge black GUARD DOGS, which leap at you one at a time.
+First GUARD DOG		Skill: 7	Stamina: 8
+Second GUARD DOG	Skill: 7	Stamina: 8
+You may Escape after killing the first Guard Dog by running east down the tunnel.
+Type ESCAPE or FIGHT to keep fighting.
 <149>
+You let go of the rope and hear it fall to the bottom of the pit.
+The Barbarian curses, promising to kill you if your paths should cross again.
+You step back and take a running jump.
+You land safely on the far side of the pit and continue west.
+Further down the tunnel, you step on a floor stone which tilts forward,
+triggering a trap which releases a boulder loosely set in the ceiling.
+You look up just as it is about to crash on top of you.
+TEST YOUR LUCK
 <150>
+Having had the sense not to put your sword arm into the hole, the effects of the tentacled arm are not too serious.
+Lose 1 SKILL point.
+You reach back into the hole and pull out the grappling iron and the leather pouch.
+Inside the pouch you find a tiny brass bell.
+You pack away your new possessions and continue north.
 <151>
+As you touch the idol's emerald eye you hear a creaking sound below you.
+Looking down, you are shocked to see the two stuffed birds flying off.
+Their wings flap in jerky movements, but they are soon above yoou and look set to attack.
+Fight the FLYING GUARDIANS one at a time,
+but reduce your SKILL by 2 during this combat because of your restricted position.
+First FLYING GUARDIAN	Skill: 7	Stamina: 8
+Second FLYING GUARDIAN	Skill: 8	Stamina: 8
 <152>
+The Dwarf congratulates you for guessing correctly.
+He tells you that you must now progress to the second stage of the test. 
+He reaches for a wicker basket and tells you that a snake is held within it. 
+He tips up the basket and the snake drops on to the floor; 
+it is a cobra, and it rears up in the air ready to strike. 
+The Dwarf tells you that he wishes to test your reactions. 
+Bare-handed, you must grasp the cobra below its head, avoiding its deadly fangs. 
+You crouch down on the floor, tensing yourself for the moment to seize it. 
+Roll two dice and see if the total is greater than your SKILL.
 <153>
+The door opens into a small room in which there is a human skull with jewelled eyes resting on top of a marble plinth. 
+A row of loaded crossbows is fixed to the left-hand wall, and two small wooden balls lie on the floor just inside the door.
+Will you:
+Walk into the room and pick up the skull? Type 1
+Throw a wooden ball at the skull from the doorway? Type 2.
+Close the door and continue west, taking the wooden balls with you? Type 3
 <154>
+Running down the tunnel, you soon catch up with the Barbarian and tell him that the eastern passage comes to a dead end. 
+He nods his head in silent understanding and sets off towards the west with you at his side.
 <155>
+The words of her poem flash through your mind:
+'When corridor doth water meet, do not make a quick retreat. . .'
+Of course, it is here that she wants you to dive into the water. 
+Now you must decide what to do. 
+If you wish to dive into the water, type 1.
+If you would rather walk back down the tunnel, type 2.
 <156>
 <157>
 <158>

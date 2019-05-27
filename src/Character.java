@@ -26,7 +26,7 @@ public class Character implements Player {
 	}
 
 	@Override
-	public boolean battle(int eSkill, int eStamina) {
+	public boolean battle(int eSkill, int eStamina, String eName) {
 		// TODO Auto-generated method stub
 		return false;
 	}
@@ -56,13 +56,13 @@ public class Character implements Player {
 	}
 
 	@Override
-	public boolean doubleAttack(int eSkill1, int eStamina1, int eSkill2, int eStamina2) {
+	public boolean doubleAttack(int eSkill1, int eStamina1, String eName1, int eSkill2, int eStamina2, String eName2) {
 		// TODO Auto-generated method stub
 		return false;
 	}
 
 	@Override
-	public boolean singleAttackRound(int eSkill, int eStamina) {
+	public boolean singleAttackRound(int eSkill, int eStamina, String eName) {
 		// TODO Auto-generated method stub
 		return false;
 	}
@@ -80,7 +80,13 @@ public class Character implements Player {
 	}
 
 	@Override
-	public boolean flawlessFight(int eSkill, int eStamina) {
+	public boolean flawlessFight(int eSkill, int eStamina, String eName) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean scorpionFight(int eSkill1, int eStamina1, int eSkill2, int eStamina2) {
 		// TODO Auto-generated method stub
 		return false;
 	}

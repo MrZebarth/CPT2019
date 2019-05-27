@@ -4,7 +4,7 @@ public class Story implements Chapter{
 	private String[] chapters;
 	
 	public Story() throws IOException {
-		chapters=new String[18];
+		chapters=new String[401];
 		splitChapters();
 	}
 	@Override

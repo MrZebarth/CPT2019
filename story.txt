@@ -37,7 +37,8 @@ followed by the rest of your body. You are now in a mirror world of another dime
 <9>
 The Hobgoblins have nothing of any use to you on them, so you decide to open the bag on the floor. 
 Inside you find a corked earthenware jug. You uncork it and sniff the liquid inside. It smells sharp and acrid. 
-If you wish to drink some of the liquid, type 1. If you wish to dip a piece of cloth in it, type 2. 
+If you wish to drink some of the liquid, type 1. 
+If you wish to dip a piece of cloth in it, type 2. 
 <10>
 Still running as fast as you can, you reach into your backpack and pull out the wooden tube. 
 You plan to lie under the surface of the water, breathing through the tube. With luck, the Troglodytes will assume that you will be swept to your death downriver as the torrent disappears into the depths of the mountain. 
@@ -128,6 +129,7 @@ The Dwarf tells you that you can now progress to the second stage of the test. H
 He tips up the basket and the snake drops on to the floor; it is a cobra and it rears up into the air ready to strike. 
 The Dwarf says he wants to test your reactions. You must grasp the cobra bare-handed below its head, avoiding its deadly fangs.
 You crouch down on the floor, tensing yourself for the moment at which to seize it.
+Roll 2 dice, and compare to your Skill.
 <27>
 You step up to the frightened man and cleave the chain with your sword. He drops to his knees and bows, thanking you over and over again.
 He tells you that four years ago he entered the Trial of Champions but failed. 
@@ -344,56 +346,281 @@ as it disappears into the depths of the mountain.
 By now your lungs are bursting for air.
 TEST YOUR LUCK again!
 <68>
+You walk down the passage and soon find yourself standing at the edge of a deep, dark pit. 
+The passage continues east on the other side of the pit. You think you could probably jump over the pit, but you are not sure. 
+There is a rope hanging down from the ceiling over the centre of the pit. Will you:
+Throw your shield over the pit and jump after it? Type 1.
+Jump over the pit carrying all your possessions? Type 2.
+Reach for the rope with your sword to enable you to swing across the pit? Type 3.
 <69>
+Ivy does not notice you opening the door. You slip out of her room, 
+close the door quietly behind you and find yourself at the end of another tunnel. 
 <70>
+You just manage to dive to the side before the boulder smashes into the tunnel floor, 
+splitting the stone. As you dust yourself off, you suddenly notice daylight at the end of the tunnel. 
+You run forward towards a beautiful sight of blue sky and green trees. 
+Running out of the tunnel, you expect to be greeted by cheering crowds, but are horrified at what you do see. 
+There is no hero's welcome from the people all around you. All are dead. 
+You are in fact standing in a cold chamber littered with armoured skeletons and bodies - the exit to victory was just an illusion! 
+Only the corpses of past adventures are real. You run back towards the tunnel, but hit an invisible barrier. 
+You are trapped and destined to end your days in the chamber of the dead.
 <71>
+Once again you reach for the parchment, only this time it is lying amidst a pile of broken bones. Unfolding it, you see a map of a room with a drawing of a hideous creature inside it.
+Beneath the monster is a rhyme which reads:
+	'Should you meet the Manticore,
+	Of its tail beware.
+	Shield yourself against the spikes
+	Flying through the air.'
+You fold up the piece of parchment and put it in your backpack. Repeating the rhyme over and over to yourself, you walk across to the alcove.
 <72>
+The Mirror shatters, sending fragments of glass flying everywhere.
+The Mirror Demon's four faces cry out in agony, and cracks appear all over them.
+THen they too shatter and fall to the floor in a pile of broken glass.
+Unfortunately, you cut your sword arm badly while smashing the mirror. Although your strength is unaffected,
+your weapon skill is diminished.
+Lose 2 SKILL points before continuing your journey north.
 <73>
+If you have not done so already, 
+you may walk back to search the Barbarian - type 1. 
+Otherwise, leave the chamber to continue west - type 2.
 <74>
+The tunnel takes a sharp right turn and you find yourself in a sort of gallery lined with mirrors for some twenty metres.
+A human skeleton appears to be pulled halfway through the mirror along the right-hand wall.
+Suddenly a grotesque being with four arms and four screaming faces emerges from the mirror, barring your way ahead.
+It walks slowly towards you, each arm outstretched to grab you.
+It is a MIRROR DEMON from another dimensional plane, come to take your spirit. Will you:
+Make a wish (if you are wearing a Ring of Wishes)? Type 1
+Try to smash the mirrors? Type 2
+Attack the Mirror Demon with your sword? Type 3
 <75>
+You rub the liquid into your wounds, but they do not heal. 
+Staring into the empty bottle, you wonder what exactly the liquid was. 
+If you have not done so already, you may open the red book - type 1.
+Otherwise, you must continue north with Throm - type 2
 <76>
+You step round the great bulk of the dead Rock Grub and peer into the darkness of its borehole. 
+You can only see a few metres, but are able to make out that it inclines slightly and is wet from the secreted slime of the Rock Grub. 
+If you wish to explore the borehole, type 1. 
+If you would rather walk west along the tunnel, type 2
 <77>
+You stagger through the open doorway into another tunnel, at the end of which is the welcome sight of daylight. 
+Much to your surprise, you see the Gnome lying dead halfway down the tunnel. 
+A crossbow bolt protrudes from the side of his head. 
+The Gnome, in his bid for freedom, has fallen foul of Baron Sukurnvit's final trap. You walk past him and
+out into brilliant sunshine.
 <78>
+There is an open pipe in the right-hand wall, about a metre in diameter. 
+It is too dark to see far down it. You shout into it and hear your voice echoing down the iron pipe
+until eventually the sound fades away.
+If you wish to crawl down the pipe, type 1. 
+If you would rather continue north, type 2.
 <79>
+You grip the arms of the chair tightly, half expecting a surge of energy or pain to rush through your body.
+TEST YOUR LUCK.
 <80>
+You take your time and manage to step over the last pole without having touched any of them. 
+You hurry on east, still following the two pairs of footprints.
 <81>
+The only furniture in the Goblin's room is a table, two chairs and a cupboard on the wall.
+There are two closed doors, one in the west wall and the other in the north wall. Will you:
+Open the cupboard? Type 1.
+Open the west door? Type 2.
+Open the north door? Type 3.
 <82>
+As the Pit Fiend slams its body against the wall, you let go of the rope and drop safely to the floor.
+You run towards the double doors and are relieved to feel them swing open as you push on them.
+You let them swing shut behind you and head north along the tunnel.
 <83>
+The passage soon leads to a junction. You notice more footprints on the floor,
+possibly as many as three pairs, heading north from the south passage.
+You decide to follow them.
 <84>
+Roll two dice and see if you get more than 8.
 <85>
+Before you are able to do anything else, the old man mumbles a few strange words into the air.
+You feel your muscles harden and your skin go taut. 
+You start to panic, but there is nothing you can do to stop the petrifaction of your body.
+Your adventure ends here.
 <86>
+The key turns in the lock and the door opens into a four way intersection of the tunnel. 
+There is nothing to be seen either to east or to west apart from the now familiar ceiling crystals 
+giving off their dim light. Suddenly you hear a voice calling you, 
+'This way, this way. You are on the right track.' 
+It seems to be coming from somewhere directly ahead of you. 
+Your curiosity gets the better of you and you decide to walk towards the beckoning voice.
 <87>
+The door opens into a large room.
 <88>
+As soon as they see you, the TROGLODYIES raise their bows and run to surround you. 
+To your horror, their leader then steps forward and declares that you are their prisoner
+and must subject yourself to trial by their ancient rite, the Run of the Arrow.
+If you are willing to take part in the Run of the Arrow, type 1.
+If you would rather try to fight your way out, type 2.
 <89>
+Back on solid ground once again on the cavern floor, you try to shake the rope off the idol's neck.
+TEST YOUR LUCK.
 <90>
+As soon as you stand up, you are confronted by the most repulsive sight you have ever laid eyes on.
+There in front of you, wallowing in a circular pool of fetid slime, is a bulbous creature too horrible to be believed.
+Its body is green and covered all over with fearsome-looking spikes.
+Its face is a mass of crimson blisters, one of which suddenly bursts to reveal yet another of its many sinister, all-seeing eyes.
+A narrow path runs around the edge of the pool and leads into another tunnel in the far wall.
+Have you previously read details about the loathsome BLOODBEAST in a leather-bound book?
 <91>
+The Orc's morning star thuds into your arm, knocking your sword to the floor. You must fight them bare-handed,
+reducing your SKILL by 4 for the duration of the combat.
+Fortunately, the tunnel is too narrow for both Orcs to attack you at once.
+Fight them one at a time.
+First ORC	Skill 5		Stamina 5
+Second ORC	Skill 6		Stamina 4
 <92>
+Summoning all your strength, you deal the Mirror Demon one final blow with your sword. 
+With an ear-splitting sound, cracks begin to run across its faces and limbs. 
+Its many mouths cry out in the agony of its death throes before the Demon shatters completely and falls to the ground in a pile of tiny fragments. 
+You heave a huge sigh of relief and then hurry on past.
 <93>
+The door opens into a small dark room, which is empty apart from a sturdy wooden chest lying on a shelf on the far wall. 
+The floor is thick with dust, and you can clearly see fresh footprints leading from the door to the chest and back again. 
+You wonder whether one of your rivals is still ahead of you on 'The Walk', 
+or whether the chest has only recently been placed on the shelf by one of the Trialmasters.
+If you wish to enter the room and open the chest, type 1.
+If you would rather keep walking down the tunnel, type 2.
 <94>
+Taking a deep breath, you lean over the pit and plunge your forearm into the mass of wriggling worms. 
+They are cold and clammy and feel extremely nasty, but at least they are harmless and you are able to seize the dagger by the hilt. 
+You give it a hard tug and it comes away from the crack in which the tip was embedded. 
+Admiring its beauty, and wondering whether it might once have belonged to some luckless contestant, 
+you put the opal studded dagger firmlv in your belt and leave the cavern.
 <95>
+The iron ring is attached to a small trapdoor. 
+It lifts up easily, and inside a small compartment you find a finely crafted shield made of the purest iron.
+Marvelling at its splendour,you strap it on to your arm. 
+Add 1 SKILL point. 
+You walk towards the double doors and push them open.
 <96>
+Your second blow also fails to smash the mirror. 
+The Mirror Demon reaches out, grabs your wrist and starts pulling you towards the mirror. 
+Its strength is incredible, and, despite all your efforts, you cannot resist. 
+With every second you come closer to the mirror. 
+When the Mirror Demon touches the mirror, it seems to disappear straight through it. 
+With horror you see your own arm disappear through the mirror too, and the rest of your body soon follows.
+You are now in a mirror world of another dimension, from which you can never return.
 <97>
+Unknown to you, the Bloodbeast has only one weakness: its real eyes. 
+More by chance than by design, you plunge your blade deep into one of them, and the Bloodbeast immediately slumps back into its pool. 
+After a few massive convulsions, it sinks beneath the oily surface of the pool.
+Not waiting to see whether it will recover, you run into the tunnel, anxious to get away from the Bloodbeast's toxic chamber as fast as possible.
 <98>
+Lifting the goblet releases a sprung catch, and a dart shoots out of the wooden table leg.
+TEST YOUR LUCK
 <99>
+Smiling, you tell Ivy that you think she and Sourbelly look very alike.
+Then, while she stares admiringly at the painting, you pick up a broken stool, creep up behind her
+and smash her over the back of the head with it as hard as you can.
+To your immense relief, she slumps unconscious to the floor.
+If you wish to search her room, type 1.
+If not, leave by the door in the east wall. You find yourself standing at the end of a tunnel. Type 2.
 <100>
+Only a few metres further down the passage, you see another closed door in the left-hand wall.
+The letter X is scratched into its centre panel. Putting your ear to the door, you listen intently but can hear nothing.
+If you wish to open the door, type 1.
+If you would rather keep walking north, type 2.
 <101>
+The river current is quite strong and, encumbered by your armour and backpack, you are unable to swim against it. 
+Within seconds you are swept under the bridge.
+Standing on the river bank, the Troglodytes look on laughing and jeering 
+as you drift to your death down-river in the depths of the mountain.
 <102>
+You enter a room which is small and completely empty.
+As soon as you are inside, the door slams shut behind you.
+Suddenly a voice booms out of nowhere, shouting,
+'Welcome to Deathtrap Dungeon, the ingenious killer labyrinth of my master.
+Adventurer, I trust you will pay your respects to my master by shouting out his name?'
+Will you shout:
+Hail, Sukumvit? Type 1.
+Sukumvit is a worm? Type 2.
 <103>
+You breathe in the poisonous gas and start to choke.
+Lose 3 STAMINA points.
 <104>
+Reacting quickly, you manage to jump over the outstretched tongue and run into the tunnel,
+leaving the Bloodbeast wallowing in its pool to await another victim.
 <105>
+Your reflexes are sharp and you quickly jump aside.
+The dart whistles past, only just missing you, and thuds into the opposite wall. 
+You see the goblet lying on the floor and the red liquid running away in rivulets over the grey stone. 
+At least the goblet may be of use, so you put it in your backpack.
+If you have not done so already, you may walk back to search the Barbarian. Type 1.
+Otherwise, leave the chamber to continue west. Type 2.
 <106>
+Squeezing the arm of the chair triggers a secret panel which springs into the air.
+You find a glass phial lying in a cavity. 
+You pick it up and read the label:
+'Doppelganger Potion - one dose only.
+This liquid will make your body take on the shape of any nearby being.'
+You place the strange potion in your backpack and continue north.
 <107>
+You come to an arched doorway set in the right-hand wall of the tunnel.
+The heavy stone door is closed, but there is an iron latch and a round handle.
+If you wish to try the door, type 1.
+If instead you wish to continue along the tunnel, type 2.
 <108>
+There is a large panel of glass in the left-hand wall of the tunnel. 
+Through it you can see a bright, torch-lit room teeming with GIANT INSECTS of every possible description. 
+Bees, wasps, beetles, ticks - even the mites are over six centimetres long. 
+The noise is threatening. In the middle of the room, a jewelled crown lies on top of a small table. 
+What looks like a large diamond is set in the middle of the crown.
+Will you:
+Break the glass and try to snatch the crown? Type 1.
+Continue west? Type 2.
+Return to the junction to head north? Type 3.
 <109>
+You arrive at another junction in the tunnel.
+If you wish to keep heading west, type 1.
+If you wish to go north, type 2.
 <110>
+The tunnel soon takes another sharp right turn.
+Following it east, you arrive at a strange obstruction: a line of twelve wooden poles across the tunnel.
+They are fixed to the walls about half a metre off the floor and spaced a metre apart.
+If you wish to step between the poles, type 1.
+If you wish to walk across the top of the poles, type 2.
 <111>
+You wipe the vile yellow slime from the blade of your sword and walk quickly to the door, back into the tunnel and head north.
 <112>
+Apart from two portions of your Provisions which were saturated and are now inedible, all your other possessions remain intact.
+You repack them carefully inside your backpack and set off north again.
 <113>
+The wooden ball whistles past the skull, hitting the far wall with a loud 'crack'.
+If you wish to try again with the other ball, type 1.
+If you have already thrown twice, or do not wish to throw again, you may decide to close the door and continue west along the tunnel.
+Type 2.
 <114>
+The Caveman is wearing a leather wristband with four small rats' skulls hanging from it.
+If you wish to put it on your own wrist, type 1.
+If you would rather set off north again, type 2.
 <115>
+Your body continues to vibrate intensely and you feel as if you are about to pass out. 
+But your strength is great, and you manage to withstand the tremendous shock to your system. 
+Finally you calm down and begin to feel the ring's beneficial powers working on you. 
+Add 3 STAMINA points. 
+You see Throm looking at you anxiously, so you reassure him that you are fully recovered. 
+He strides off east and you follow him eagerly.
 <116>
+You cannot believe that the Bloodbeast is unaffected by its new wound. 
+You hesitate a moment too long and it lunges forward, cracking your skull with its jaws. 
+Then it drags you into its pool, where you will be predigested and later consumed by the hideous creature.
 <117>
+After a long walk down the tunnel, you come to a dead end.
+A large mirror reaching from the ceiling to the floor hangs on the end wall, and in the dim light you can just about make out your own reflection.
+If you wish to take a closer look in the mirror, type 1.
+If you would rather make the long walk back to the last junction in the tunnel in order to head east, type 2.
 <118>
+Despite the stalactites crashing all around, you manage to dash through the archway without injury.
+You look round and see Throm thundering towards you, one arm held over his head for protction.
+He dashes into the tunnel and leans against the cold wall, panting heavily. 
+He apologizes for starting the rock-fall and offers you his hand to shake.
+You tell Throm that maybe he should use sign language in future, even for laughing!
+You both smile and head east once more.
 <119>
 <120>
 <121>

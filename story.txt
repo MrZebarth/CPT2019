@@ -851,18 +851,77 @@ Now you must decide what to do.
 If you wish to dive into the water, type 1.
 If you would rather walk back down the tunnel, type 2.
 <156>
+The small plate slides open easily, and you find yourself peering into a room with a deep pit in the floor behind the door.
+On the opposite wall there are two iron hooks, on one of which hangs a coil of rope.
+If you wish to open the door, jump over the pit and take the rope, type 1.
+If you would rather continue north along the tunnel, type 2.
 <157>
+The casket opens easily, and inside there is a black velvet bag containing a large pearl.
+Add 1 LUCK point.
+After putting the pearl in your pocket, you press on through the cobwebs.
 <158>
+You lift the jug to your lips and take a swig of the liquid.
+It burns so much that you drop the jug and grab your throat in agony.
+You have swallowed acid!
+Lose 1 SKILL point and 4 STAMINA points.
 <159>
+Your reactions are still slow because of the poison in your system, and although you try to jump over the outstretched tongue, your legs let you down.
+The sticky tongue wraps itself around your leg, flipping you over, and starts to pull you towards the pool.
+Your sword has slipped out of your hand and you start to panic.
+Do you have a dagger?
 <160>
+Your armour and sword weigh you down, but you just manage to land safely on the far edge of the pit.
+You waste no time and head east.
 <161>
+You push past the two Leprechauns and head off north, the noise of jeering and laughter ringing in your ears.
+Further up the tunnel you stop to rest and check your belongings.
+If you had any gems, they are now gone, the Leprechaun who landed on your back stole them from your backpack.
+You curse the thieving Leprechauns and set off north again.
 <162>
+Removing the box lid by the light of the tunnel, you find an iron key and a large gem. It is a sapphire.
+Add 1 Luck point. 
+Placing the items carefully in your backpack, you set off north once again.
 <163>
+The dwarf calls down from the balcony, congratulating you on your victory. 
+He throws a sack down into the arena and tells you to relax and regain your strength for the final part of the test.
+Then he walks off, saying he will return in about ten minutes.
+You open the sack and find a jug of wine and a cooked chicken.
+If you wish to eat and drink the Dwarf's offerings, type 1.
+If you would rather just sit down and await his return, type 2.
 <164>
+As you walk along, droplets of water again start falling from the tunnel ceiling. 
+You see wet footprints, made by the same boots that you followed earlier, heading west. 
+The footprints lead to a closed iron door in the right-hand wall of the tunnel, but do not seem to go any further.
+If you wish to open the door, type 1.
+If you would rather keep going west, type 2.
 <165>
+There is a slot in the padlock into which you place the coin. 
+Immediately the lock clicks apart, and you are able to unchain the stilts. 
+You place them on your shoulder and once again set off north.
 <166>
+As you touch the emerald eye of the idol, you hear a creaking sound below you. 
+Looking down, you are shocked to see the two stuffed birds taking flight.
+Their wings flap in jerky movements, but they are soon above you and look set to attack.
+Fight the FLYING GUARDIANS one at a time, but reduce your SKILL by 3 during this combat because of your restricted position.
+First FLYING GUARDIAN	Skill: 7	Stamina: 8
+Second FLYING GUARDIAN	Skill: 8	Stamina: 8
 <167>
+You swing the grappling iron around your head and hurl it at the beast below. 
+The Pit Fiend's huge jaws snap tight over the grappling iron, then it jerks its head back. 
+Still holding the rope, you are pulled off the wall and tumble to the bottom of the pit.
+Lose 4 STAMINA points.
 <168>
+Lifting the latch and pushing the heavy stone door open, you find yourself in a large cavern. 
+The light is dim and murky, but as your eyes begin to adjust, you see that the walls are covered in green algae and running with moisture. 
+The floor is strewn with straw. The atmosphere is warm, damp and fetid, and a soft humming sound fills the air. 
+You step gingerly through the straw towards a corner of the cavern, where there appears to be a shallow pit.
+Peering warily into the pit, you are disgusted to see a mass of pale writhing worms, some as much as half a metre long. 
+Utterly nauseated, you are about to turn away when you notice that their undulating bodies are swarming round a dagger, 
+its point held fast in a crack in the pit floor. 
+The hilt is cased in black leather studded with opals, and the blade is fashioned from a strange reddish-black burnished metal you have never seen before. 
+You long to touch the dagger, but this would mean plunging your hand in among the writhing worms.
+Do you reach for the dagger? Type 1
+Or back away in disgust and leave the cavern? Type 2.
 <169>
 <170>
 <171>

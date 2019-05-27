@@ -1,0 +1,678 @@
+<1>
+The clamour of the excited spectators gradually fades behind you as you venture deep into the gloom of the cavern tunnel.
+Large crystals hang from the tunnel roof at twenty-metre intervals, radiating a soft light, just enough for you to see your way.
+As your eyes gradually become accustomed to the near darkness, you begin to see movement all around. 
+Spiders and beetles crawling up and down the chiselled walls disappear quickly into cracks and crevices as they sense your approach; rats and mice scurry along the floor ahead of you. 
+Droplets of water drip into small pools with an eerie plopping sound which echoes down the tunnel. The air is cold, moist and dank. 
+After walking slowly along the tunnel for about five minutes, you arrive at a stone table standing against the wall to your left. On it there are six boxes, one of which has your name painted on its lid.
+
+If you wish to open the box, type 1.
+If you prefer to continue walking north, type 2.
+<2>
+The Scorpion manages to hold you in its pincers long enough to flick its segmented tail forward over its head and sting you with its poisonous barb. 
+The effect is fatal and you slump to the ground in the Arena of Death, wondering whether Throm will win through.
+<3>
+The Gnome shakes his head and says, "I am afraid you have failed the Trial of Champions. Baron Sukumvit's Deathtrap Dungeon will keep its secrets for another year, you will not be allowed to leave here. 
+You are appointed my servant for the rest of your days, to prepare and modify the dungeon for future contestants. Perhaps in another life you will succeed...'
+<4>
+In the total darkness you do not see the pipe's downward turn. You slip and, unable to get a grip on the slimy pipe, slide over the edge.
+Your screams echo down the pipe as you fall the fifty metres to the bottom. You have failed the Trial of Champions.
+<5>
+You crawl along the floor and find yourself in the lair of a tribe of TROGLODYTES. As you creep past them, your scabbard bangs against a rock on the floor. 
+TEST YOUR LUCK
+<6>
+Knowing that the Manticore will fire the spikes in its tail at you, you run for cover behind one of the pillars.
+Before you reach it, a volley of spikes flies through the air and one of them sinks into your arm. 
+Lose 2 STAMINA points. If you are still alive, you waste no time and attack the Manticore with your sword before it has time to unleash more of its deadly spikes.
+MANTICORE	Skill 11	Stamina 11
+<7>
+Before you have time to reach a doorway, the boulder is upon you. 
+You cry out in pain and terror as it crushes you to the floor. 
+Your adventure ends here. 
+<8>
+The Mirror Demon grabs you by the wrist. Immediately it starts to pull you towards the mirror. 
+Its strength is incredible, and, despite all your efforts, you cannot prevent it from pulling you relentlessly towards the mirror. 
+When it touches the mirror, it seems to disappear straight through it. With horror you see your own arm disappear, 
+followed by the rest of your body. You are now in a mirror world of another dimension, from which you can never return. 
+<9>
+The Hobgoblins have nothing of any use to you on them, so you decide to open the bag on the floor. 
+Inside you find a corked earthenware jug. You uncork it and sniff the liquid inside. It smells sharp and acrid. 
+If you wish to drink some of the liquid, type 1. If you wish to dip a piece of cloth in it, type 2. 
+<10>
+Still running as fast as you can, you reach into your backpack and pull out the wooden tube. 
+You plan to lie under the surface of the water, breathing through the tube. With luck, the Troglodytes will assume that you will be swept to your death downriver as the torrent disappears into the depths of the mountain. 
+You seize the tube between your teeth and lower yourself into the water. Holding on to one of the underwater bridge pillars, you keep perfectly still for ten minutes. 
+When you finally think the Troglodytes have gone, you rise to the surface and look around. 
+There is nobody to be seen, so you climb out of the river and cross the bridge to the northern bank. Any remaining Provisions you may have are now sodden and inedible. 
+You continue to walk through the vast cavern until at last you see a tunnel in the far wall. 
+You walk down it until you come to a heavy wooden door, which is locked. 
+If you have an iron key, you can open it.
+<11>
+You look down and see the crumpled bodies of the Flying Guardians lying motionless on the floor.
+You start to prise out the idol's emerald eye with the tip of your sword. At last it comes free, and you are surprised by its weight. 
+Hoping that it may be of use later, you put it in your backpack. 
+If you now wish to prise out the right eye, type 1.
+If you would rather climb down the idol, type 2. 
+<12>
+The door opens into a large, candle-lit room filled with the most extraordinarily lifelike statues of knights and warriors. 
+A white-haired old man dressed in tattered rags suddenly jumps out from behind one of the statues and starts to giggle. 
+Though he looks like a fool, the sparkle in his eyes makes you think there is more to him than is apparent. 
+In a high-pitched voice he says, 'Oh good, another stone for my garden. I'm glad you have come to join your friends.
+Now, I'm a fair man and so I'll ask you a question. If you answer correctly, I'll let you go free - but if your answer is wrong, I'll turn you to stone!' 
+He starts to chuckle again, obviously pleased with your arrival. Will you:
+Wait for his question? Press 1
+Attack him with your sword? Press 2
+Make a run for the door? Press 3 
+<13>
+The tunnel makes a sudden turn to the left and heads north for as far as you can see. The footprints you are following start to peter out 
+as the tunnel becomes gradually drier. Soon you are beyond the dripping roof and the pools on the floor. 
+You notice the air becoming hotter and you find yourself panting even though you are walking quite slowly. 
+In a small recess on the left-hand wall you see a section of bamboo standing on its end. 
+Lifting it down, you see it is filled w1th a clear liquid. Your throat is painfully dry and you feel a little dizzy from the heat in the tunnel.
+If you wish to drink the liquid, type 1.
+If you do not want to risk drinking the liquid and would rather continue north, type 2.
+<14>
+The tunnel leads into a dark chamber covered in thick cobwebs. Clawing your way through them, you trip over a wooden casket. 
+If you wish to try to open the casket, type 1.
+If you would rather continue north, type 2.
+<15>
+A tickling sensation runs down your spine as you crawl carefully out of the room. Back in the tunnel you heave a sigh of relief, throw the skull back into the room and slam the door shut.
+Pleased with your good fortune, you set off west once again.
+<16>
+You just have time to hear the Gnome say, 'Three skulls' before a white bolt of energy shoots out from the lock into your chest, knocking you unconscious.
+If you are still alive, you come to and are told by the Gnome to try again. You chose the wrong gems last time, so you won't try that combination again.
+
+1) Emerald		Diamond		Sapphire	
+2) Diamond		Sapphire	Emerald	
+3) Sapphire		Emerald		Diamond	
+4) Emerald		Sapphire	Diamond	
+5) Diamond		Emerald		Sapphire
+6) Sapphire		Diamond		Emerald	
+<17>
+You are not strong enough to force open the heavy door. The water is now waist-high and you are exhausted from your efforts.
+The water level rises quickly and you find yourself floating ever upwards until your face is pressed against the ceiling. 
+You are soon completely immersed and unable to hold your breath any longer. Your adventure ends here.
+<18>
+Luckily for you, the cobra's fangs sink into your leather wristband. The snake recoils quickly, ready to strike again,
+as the Dwarf tells you to have another try.
+Roll two dice and see if the total is greater than your skill, or less than/equal to your skill.
+<19>
+You cannot resist the Medusa's beguiling gaze as she looks into your eyes. You feel your limbs begin to stiffen and you panic helplessly as you turn to stone.
+Your adventure ends here.
+<20>
+Only your incredible strength could withstand the poisonous spider's bite. However, you are weakened and you notice your hand trembling as you pocket the Gold Piece.
+Your SKILL is reduced by 1 point. You curse the person who dropped the backpack and set off north again.
+<21>
+The wound has had no effect on the Bloodbeast, and it continues to attack you as furiously as before.
+Continue your combat and as soon as you win your next Attack Round, TEST YOUR LUCK.
+<22>
+Although you are slightly uneasy in each other's company, knowing that there can only be one winner in the Trial of Champions, 
+you are both content to share in the benefits of a temporary alliance. You begin to tell each other of your exploits so far, of the monsters and traps encountered and the dangers overcome. 
+Walking along, you soon come to the edge of a wide pit. It is too deep and dark to see the bottom. The Barbarian offers to lower you to the
+bottom with his rope, saying he has a torch which he can light for you to use. Will you:
+Accept the Barbarian's offer? Type 1
+Offer to lower him down if he is so eager to investigate the pit? Type 2
+Suggest that you both jump over the pit instead? Type 3 
+<23>
+The paper bears a simple warning written in dried blood: "Beware the Trialmasters'.
+You replace the paper on its nail and run back down the tunnel to rejoin the Barbarian.
+<24>
+Set back in an arched alcove in the tunnel wall you see an ornate wooden chair carved in the shape of a demon-like bird of prey.
+If you wish to sit in the chair, type 1.
+If you would rather keep going north, type 2.
+<25>
+Although the temperature in the tunnel is higher than you could normally tolerate, the liquid from the bamboo pipe keeps you alive.
+<26>
+The pill makes you feel dull and lethargic. Lose two SKILL points.
+The Dwarf tells you that you can now progress to the second stage of the test. He reaches for a wicker basket and tells you that there is a snake inside it.
+He tips up the basket and the snake drops on to the floor; it is a cobra and it rears up into the air ready to strike. 
+The Dwarf says he wants to test your reactions. You must grasp the cobra bare-handed below its head, avoiding its deadly fangs.
+You crouch down on the floor, tensing yourself for the moment at which to seize it.
+<27>
+You step up to the frightened man and cleave the chain with your sword. He drops to his knees and bows, thanking you over and over again.
+He tells you that four years ago he entered the Trial of Champions but failed. 
+He fell down a pit and had to be rescued by a Trialmaster, one of Baron Sukumvit's dungeon administrators.
+He was offered a choice between death or servitude in Deathtrap Dungeon as the Trialmaster's minion.
+Choosing the latter, he worked like a slave until he could stand it no longer and tried to escape.
+Alas, he was unsuccessful and was captured by the Trialmaster's wandering Orc guards.
+To teach him a lesson, they cut off his hand and condemned him to a year's imprisonment in this cell. 
+You ask him whether he has any information that might be of use to you. He scratches his head. 'Well, I haven't exactly done very well in here myself,'
+he says, 'but I do know that you need to collect gems and precious stones if you hope to get out. I don't know why, but there it is.'
+Without another word, the ragged prisoner dashes out of the room, turning left into the tunnel.
+You decide to keep heading north and turn right into the tunnel.
+<28>
+The Dwarf's chainmail coat is of finest-quality iron, obviously made by a master armourer. You strip it from his body and place it over your head.
+Add 1 Skill point. There is nothing else of use to you in the chamber, so you decide to investigate the new tunnel.
+<29>
+The tunnel leads north for some distance before coming to a dead end. The mouth of a chute protrudes from the tunnel's eastern wall.
+It seems to be the only way out. You decide to risk it and climb into the chute. You slide gently down and come out in a room, landing on your back.
+<30>
+Taking a step forward, you leap towards the far edge of the pit.
+TEST YOUR LUCK
+<31>
+The Gnome smiles and says, 'Good. Now, have you a sapphire in your possession?"
+<32>
+You soon come to another junction in the tunnel. One branch leads east, but the wet footprints you have been following continue north and you decide to follow their trail.
+<33>
+It was a mistake to reach into the hole with your sword arm. It is covered with round sucker marks and feels as if it has been crushed.
+Lose 3 SKILL points.
+You peer into the hole and see the bleeding tentacle stump hanging limply. You carefully pull out the grappling iron and leather pouch, in which you find a tiny brass bell.
+You pack away your new possessions and head north.
+<34>
+You try to force the point of your sword under the emerald eye. Much to your surprise, the emerald shatters on contact, releasing a jet of poisonous gas straight into your face.
+The gas knocks you out and you release the rope, bounce down the idol and crash on to the stone floor. Your adventure ends here.
+<35>
+The tunnel continues west for several hundred metres, finally ending at some steps leading up to a closed trapdoor. You climb the steps slowly, hearing muffled voices above you. 
+In the dim light you can see that the trapdoor is not locked.
+If you wish to knock on the trapdoor, type 1.
+If you wish to burst through the trapdoor with your sword drawn, type 2.
+<36>
+You run faster than you have ever run in your life before, but still the boulder is catching up on you.
+Roll two dice. See if the total is the same as or less than both of your SKILL and STAMINA scores.
+<37>
+The passage opens out into a wide cavern which is darker but much drier. Ahead you see the footprints gradually fade, then disappear.
+There is a large idol in the centre of the cavern, standing approximately six metres high.
+It has jewelled eyes, each as big as your fist. There are two giant stuffed bird-like creatures standing on either side of the idol.
+If you wish to climb the idol to take the jewels, type 1.
+If you wish to walk through the cavern to the tunnel in the opposite wall, type 2.
+<38>
+The man stands by silently while you gulp the water and wolf down the bread. A sharp pain grips your stomach and you fall to your knees.
+The old man looks at you scornfully and says, 'Well, if you will eat poisoned food, what do you expect?'
+Lose 3 STAMINA points.
+He shuffles off, leaving you writhing in pain on the floor. If you are still alive, you eventually regain enough of your strength to continue west.
+<39>
+You manage to evade the outstreteched legs of the diving Giant Fly. Stepping back, you draw your sword and prepare to fight the hideous insect as it turns to attack you again.
+GIANT FLY	Skill 7		Stamina 8
+You may Escape by running back into the tunnel to head north.
+<40>
+You call out to the Dwarf that you are ready to fight the MINOTAUR.
+The wooden door rises slowly and you see the fearsome beast, half man, half bull, step into the arena.
+Steam blows from its nostrils as it works itself up into a rage, ready to attack.
+Suddenly it russhes forward, swinging its double-headed axe.
+MINOTAUR	Skill 9		Stamina 9
+<41>
+You walk slowly over to the alcove, carefully checking the floor for any more hidden traps. You see that the goblet contains a sparkling red liquid.
+Will you:
+Drink the red liquid? Type 1
+Leave the goblet and walk back to search the Barbarian (if you have not done so already)? Type 2
+Leave the chamber to continue west?	Type 3
+<42>
+The cobra's fangs sink deep into your wrist and you feel its poison starting to creep through your body.
+Lose 5 STAMINA points.
+If you are still alive, the Dwarf has no mercy but tells you to try again.
+Roll two dice and see if it is greater than your Skill.
+<43>
+The tunnel turns sharply to the right and continues north for as far as you can see. There is a door in the left-hand wall which is ajar.
+You hear someone cry for help from the other side of the door. 
+If you wish to open it, type 1.
+If you would rather continue north, type 2.
+<44>
+You are only a few metres from the doorway when you hear the old man behind you utter some strange words.
+Instantly your muscles harden and you feel your skin becoming taut. You start to panic, but there is nothing you can do to stop the petrifaction of your body.
+Your adventure ends here.
+<45>
+The razor-sharp disc thuds into your back with terrible effect. 
+Lose 1 SKILL and 4 STAMINA points.
+If you are still alive, you struggle to pull the disc from your back as the Ninja throws yet another one at you.
+<46>
+You lower yourself carefully down the idol and, wasting no more time in the cavern, run forward to the tunnel in the northern wall.
+<47>
+Have you got a hollow wooden tube?
+<48>
+Only your immense strength and grim determination keep you from falling unconscious to the floor. 
+You grit your teeth and press on resolutely.
+<49>
+You peep round the corner and see two small creatures running away from you. Both are dressed in baggy clothes and wear pointed floppy hats.
+They are mischievous LEPRECHAUNS.
+If you wish to follow them, type 1.
+If you would rather walk back to the last junction to head north, type 2.
+<50>
+You wake to find Throm pulling the ring off your finger. He puts it on the floor and crushes it with the head of his battleaxe.
+Then, grunting to show his disapproval of you, he strides off east. You stand up slowly and stagger off after him.
+<51>
+The Hobgoblins are unprepared for your attack, and you are able to kill the first one before he can draw his sword.
+You turn to face the remaining Hobgoblin, who snarls at you with hatred.
+HOBGOBLIN	Skill 6		Stamina 5
+<52>
+As you open the book, it begins to disintegrate and the pages turn to dust in your hands. You manage to keep a few fragments and read the handwritten script.
+The book appears to be about monsters, and from what you can make out it contains a full description of a monster called the Bloodbeast.
+It is a horrific bloated creature with tough, spiny skin and facial blisters which burst open to become mock eyes,
+evolved to hid the Bloodbeast's only weak spot - its real eyes. Bloodbeasts usually dwell in pools of fetid slime which give off a poisonous gas.
+This gas is so strong that it can easily knock people unconscious.
+The Bloodbeast, although too bulbous to haul itself out of its slime pool, has a long and vicious tongue which it wraps around its victims before it drags them into its pool. 
+As the victim's flesh starts to decompose int he vile slime, the Bloodbeast will feed from it.
+You tell Throm about the grotesque Bloodbeast, but he merely shrugs his shoulders and tells you to get going. 
+If you have not done so alread, you may open the black book. Type 1.
+Otherwise you must continue north with Throm. Type 2.
+<53>
+The Bloodbeast is too bulbous to climb out of its pool, but its long tongue whips out and tries to wrap itself around your leg.
+Fortunately, you have fallen beyond its reach. The air at ground level does not contain any of the poisonous fumes, but you wake with a pain in your throat.
+You cover your mouth with your sleeve so that you can breathe through it, and decide what to do.
+If you wish to run around the pool towards the tunnel, type 1.
+If you wish to attack the Bloodbeast with your sword, type 2.
+<54>
+The lasso loosens itself and you are able to shake it free of the idol's neck. It falls to the floor with a loud clatter.
+You quickly coil the rope up again and put it in your backpack. Wasting no more time in the cavern,
+you run forward to the tunnel in the northern wall.
+<55>
+With lightning speed, you thrust your hand out and grip the cobra just below its open mouth.
+You lift it up and, arm outstretched, dangle it in front of the Dwarf. He doesn't flinch but says in his calm expressionless way,
+'Please put the cobra back in the basket and prepare for the final part of the test. Follow me.'
+You do what he says and follow him back into the chamber, where Throm is pacing up and down, obviously ill at ease.
+You wave to him while the Dwarf opens a second secret door and tells you to walk on through and wait for him. 
+Again ou comply, and you find yourself in another circular room, although this one resembles a small arena.
+The floor is covered with sand, and a small balcony runs around the arena wall. Opposite the secred door by which you entered is an ominous-looking wooden door.
+Suddenly you hear a shout, and you look up to see the smiling Dwarf standing on the balcony. He throws two pieces of paper down to you.
+On one of them, the words NO CROP IS are written, on the other, RUIN MOAT.
+In his ever-calm voice he says, 'If you rearrange the letters of the words, you will find the names of two creatures. You may choose which one to fight in my Arena of Death.'
+If you can identify the creature by rearranging the letters NO CROP IS, type it now.
+If you can identify the creature by rearranging the letters RUIN MOAT, type it now.
+If you cnnot identify either of the creatures, type NO.
+<56>
+You see that the obstruction is a large, brown, boulder-like object. You touch it with your hand and are surprised to find that it is soft and spongy.
+If you wish to try to climb over it, type 1.
+If you wish to slice it open with your sword, type 2.
+<57>
+Although you check the chest carefully for any hidden devices, you are unable to see the trap inside it.
+As you lift the lid, an iron ball hanging on a cord swings back, shattering the glass capsule fined inside the lid.
+A poisonous gas is instantly released into the air and you stagger back coughing and spluttering.
+Lose 4 STAMINA points.
+<58>
+You step slowly between the poles, taking care not to touch any of them. 
+Roll two dice and see if it is greater than your SKILL.
+<59>
+Ahead in the far distance you hear the sound of slow footsteps coming towards you. Unsure of who or what might be approaching, you look around for a place to hide.
+You find a large crack in the tunnel wall which lies in shadow.
+If you wish to stand your ground with your sword drawn, type 1.
+If you would rather hide in the shadows, type 2.
+<60>
+The tunnel ends at a large oak door. Throm wastes no time in testing the handle and is somewhat surprised to find the door unlocked.
+He pushes it open and walks into a torch-lit chamber. Sitting alone on an ornate chair is a DWARF, who bids you enter the chamber.
+As you do so, the oak door swings shut behind you. 'Adventurers, you have done well to get this far,' says the Dwarf in a deep voice.
+'However, as you both know, there can only be one winner in the Trial of Champions. As Trialmaster, it is my duty to Baron Sukumvit to let only the most able continue.
+Therefore, I must devise a test of wits and streength to eliminate one of you. Please do not attempt to dispose of me.
+It would be utterly pointless, for, ass you can see, there is no obvious way out of this chamber and only I know where the hidden exit lies.
+Now if you would care to decide bettween you who will go first, I shall make the necessary preparations.'
+You look at Throm, suddenly angry that your effective partnership might come to an end. He leans over and whispers in your ear that you should try to kill the Dwarf and worry about the exit later.
+If you wish to join Throm in attacking the Dwarf, type 1.
+If you would rather persuade Throm to go through with the Dwarf's test, type 2.
+<61>
+Despite the terible ringing sound in your ears, you hear footsteps coming down the tunnel. 
+Your loud screams have attracted a tunnel guardian. Standing over you is a HOBGOBLIN. 
+His face bears a sickly smile as he presses the point of his sword against your neck. 
+You are unable to defend yourself and prevent the Hobgoblin from running you through.
+Your adventure ends here.
+<62>
+The Gnome jumps in the air, yelling, 'Well done - nobody has ever managed to find all three gems before! 
+Now get ready for the final test, which I will explain once and once only. 
+As you can see, the lock on this door has three slots, labelled A, B and C, each of which is built to accept a specific gem. 
+You have to put one of your three gems in each of the slots in the conect order. If you manage this at the first attempt, fine. 
+However, if you put the gems in the wrong slots, you will be blasted by a bolt of energy from the lock, causing you injury. 
+Anyway, as I said, I am allowed to help you a little. 
+If you place one gem in its correct slot but get the other two wrong, I shall shout, "One crown and two skulls."
+If you place all three gems incorrectly, I shall shout, "Three skulls." 
+You will be allowed to try again and again until you either succeed or die. Are you ready?'
+You signal your readiness with a nod of the head, and walk forward to place the three gems in the slots. 
+1) Emerald		Diamond		Sapphire
+2) Diamond		Sapphire	Emerald
+3) Sapphire		Emerald		Diamond
+4) Emerald		Sapphire	Diamond
+5) Diamond		Emerald		Sapphire
+6) Sapphire		Diamond		Emerald
+<63>
+You tie the rope around your waist and take hold of the lighted torch given to you by Throm, as your Barbarian ally calls himself.
+Taking hold of the slack rope, Throm lowers you slowly over the edge of the pit and down into the dark depths below. 
+You can see by the light of the torch that the sides of the pit are extremely smooth. You drop about twenty metres before hitting the bottom of the pit. 
+There you see another tunnel heading north and you call up to Throm and tell him of your discovery. 
+He calls back, saying that he is going to tie the rope around a protrudjng rock on the edge of the pit and will come down and join you. 
+You hear him climbing down and soon you are together again. Throm retrieves his rope by shaking it off the rock, and you set off north along the new tunnel.
+<64>
+As soon as you put the ring on your finger, your whole body starts to shake. 
+Roll two dice and see if it is greater than your SKILL.
+<65>
+Have you drunk a Potion found inside a black leather book?
+<66>
+After walking down the tunnel for a few minutes, you come to a junction. 
+A white arrow painted on one wall points west. On the floor you can see wet footprints made by those who entered before you. 
+It is hard to be sure, but it looks as though three of them followed the direction ofthe arrow, while one decided to go east. 
+If you wish to head west, type 1. 
+If you wish to head east, type 2.
+<67>
+You grab one of the underwater bridge pillars and cling to it, holding your breath. 
+Meanwhile the Troglodytes reach the river bank and decide that you must have been swept to your death downriver
+as it disappears into the depths of the mountain. 
+By now your lungs are bursting for air.
+TEST YOUR LUCK again!
+<68>
+<69>
+<70>
+<71>
+<72>
+<73>
+<74>
+<75>
+<76>
+<77>
+<78>
+<79>
+<80>
+<81>
+<82>
+<83>
+<84>
+<85>
+<86>
+<87>
+<88>
+<89>
+<90>
+<91>
+<92>
+<93>
+<94>
+<95>
+<96>
+<97>
+<98>
+<99>
+<100>
+<101>
+<102>
+<103>
+<104>
+<105>
+<106>
+<107>
+<108>
+<109>
+<110>
+<111>
+<112>
+<113>
+<114>
+<115>
+<116>
+<117>
+<118>
+<119>
+<120>
+<121>
+<122>
+<123>
+<124>
+<125>
+<126>
+<127>
+<128>
+<129>
+<130>
+<131>
+<132>
+<133>
+<134>
+<135>
+<136>
+<137>
+<138>
+<139>
+<140>
+<141>
+<142>
+<143>
+<144>
+<145>
+<146>
+<147>
+<148>
+<149>
+<150>
+<151>
+<152>
+<153>
+<154>
+<155>
+<156>
+<157>
+<158>
+<159>
+<160>
+<161>
+<162>
+<163>
+<164>
+<165>
+<166>
+<167>
+<168>
+<169>
+<170>
+<171>
+<172>
+<173>
+<174>
+<175>
+<176>
+<177>
+<178>
+<179>
+<180>
+<181>
+<182>
+<183>
+<184>
+<185>
+<186>
+<187>
+<188>
+<189>
+<190>
+<191>
+<192>
+<193>
+<194>
+<195>
+<196>
+<197>
+<198>
+<199>
+<200>
+<201>
+<202>
+<203>
+<204>
+<205>
+<206>
+<207>
+<208>
+<209>
+<210>
+<211>
+<212>
+<213>
+<214>
+<215>
+<216>
+<217>
+<218>
+<219>
+<220>
+<221>
+<222>
+<223>
+<224>
+<225>
+<226>
+<227>
+<228>
+<229>
+<230>
+<231>
+<232>
+<233>
+<234>
+<235>
+<236>
+<237>
+<238>
+<239>
+<240>
+<241>
+<242>
+<243>
+<244>
+<245>
+<246>
+<247>
+<248>
+<249>
+<250>
+<251>
+<252>
+<253>
+<254>
+<255>
+<256>
+<257>
+<258>
+<259>
+<260>
+<261>
+<262>
+<263>
+<264>
+<265>
+<266>
+<267>
+<268>
+<269>
+<270>
+<271>
+<272>
+<273>
+<274>
+<275>
+<276>
+<277>
+<278>
+<279>
+<280>
+<281>
+<282>
+<283>
+<284>
+<285>
+<286>
+<287>
+<288>
+<289>
+<290>
+<291>
+<292>
+<293>
+<294>
+<295>
+<296>
+<297>
+<298>
+<299>
+<300>
+<301>
+<302>
+<303>
+<304>
+<305>
+<306>
+<307>
+<308>
+<309>
+<310>
+<311>
+<312>
+<313>
+<314>
+<315>
+<316>
+<317>
+<318>
+<319>
+<320>
+<321>
+<322>
+<323>
+<324>
+<325>
+<326>
+<327>
+<328>
+<329>
+<330>
+<331>
+<332>
+<333>
+<334>
+<335>
+<336>
+<337>
+<338>
+<339>
+<340>
+<341>
+<342>
+<343>
+<344>
+<345>
+<346>
+<347>
+<348>
+<349>
+<350>
+<351>
+<352>
+<353>
+<354>
+<355>
+<356>
+<357>
+<358>
+<359>
+<360>
+<361>
+<362>
+<363>
+<364>
+<365>
+<366>
+<367>
+<368>
+<369>
+<370>
+<371>
+<372>
+<373>
+<374>
+<375>
+<376>
+<377>
+<378>
+<379>
+<380>
+<381>
+<382>
+<383>
+<384>
+<385>
+<386>
+<387>
+<388>
+<389>
+<390>
+<391>
+<392>
+<393>
+<394>
+<395>
+<396>
+<397>
+<398>
+<399>
+<400>

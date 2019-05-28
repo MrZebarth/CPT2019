@@ -4,7 +4,7 @@ public class Story implements Chapter{
 	private String[] chapters;
 	
 	public Story() throws IOException {
-		chapters=new String[40];
+		chapters=new String[401];
 		splitChapters();
 	}
 	@Override
@@ -25,6 +25,7 @@ public class Story implements Chapter{
 			while(!(temp=in.readLine()).startsWith("<"))
 			chapters[x]+=temp+"\n";
 		}
+		in.close();
 		
 	}
 

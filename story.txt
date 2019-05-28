@@ -1443,40 +1443,209 @@ You draw your sword and consider which jewelled eye to prise out first.
 If you wish to prise out the left eye, type 1.
 If you wish to prise out the right eye, type 2.
 <261>
+Despite all your efforts, you cannot get the lasso off the idol's neck.
+Finally you give up and abandon it to whoever may come after you.
+There is nothing else of interest in the cavern, so you walk over to the northern wall and enter the tunnel.
 <262>
+The door opens into another tunnel running north.
+Ahead you see two stone fountains, one on either side of the tunnel, carved in the shape of cherubs.
+Water spouts from their mouths and cascades into small bowls at their feet.
+Will you:
+Drink at the fountain on your left? Type 1
+Drink at the fountain on your right? Type 2
+Continue your walk north? Type 3
 <263>
+The door opens into another tunnel. 
+Walking west, you soon arrive at a door in the north wall.
+If you wish to open the door, type 1.
+If you would rather continue west, type 2.
 <264>
+Ahead in the dim light you see two HOBGOBLINS fighting, punching and kicking each other furiously.
+There is a leather bag lying on the floor, and it seems to be this that they are fighting over.
+Will you:
+Try to talk to them? Type 1
+Attack them with your sword? Type 2
+Try to slip by them unnoticed? Type 3
 <265>
+You rub your magic ring and wish for the Mirror Demon to be transported back to its own world, never to return.
+Still advancing towards you, it starts to shimmer and fade away.
+Then it vanishes completely, and you are able to continue your quest north.
 <266>
+You search through the cupboards and boxes in Ivy's room, but you find nothing except an old bone, which you may take with you if you wish.
+Leaving the chambers by the east door, you now find yourself standing at the end of another tunnel.
 <267>
+The tunnel ends shortly at a junction.
+Looking left and right, you see a narrow passage disappearing into the dim distance.
+If you wish to head west, type 1
+If you wish to go east, type 2
 <268>
+You leap forward and try to grab the leader to use as a hostage.
+However, the Troglodytes are ready for your move, and six of their bowmen immediately shoot their arrows at you.
+Their aim is deadly accurate and all six arrows find their mark.
+Lifeless, you fall to the floor.
+The Troglodytes have ended your journey abruptly.
 <269>
+You empty the contents of the jar into your hand and apply them to your wounds.
+Their healing powers take immediate effect and you feel yourself growing stronger.
+Add 3 STAMINA points.
+If you have not done so already, you may either eat the rice and drink the water: Type 1
+Or leave the hall, taking just the diamond with you: Type 2.
 <270>
+The lid of the box lifts off easily. 
+Inside you find two Gold Pieces and a note written on a small piece of parchment addressed to you.
+After placing the gold in your pocket, you read the message, which says:
+'Well done. At least you have the sense to stop and take advantage of the token aid given to you.
+Now I can advise you that you will need to find and use several items if you hope to pass triumphantly through my Deathtrap Dungeon.
+Signed Sukumvit.'
+Memorizing the advice on the note, you tear it into tiny pieces and continue north along the tunnel.
 <271>
+Just as you are about to release the shield and throw it over the pit, it slips from your fingers and rolls away.
+You are unable to catch it before it falls over the edge of te pit, clattering down its sides to the bottom.
+The loss of your shield reduces your fighting ability.
+Lose 1 SKILL point.
+Cursing your own clumsiness, you step forward, leap across the pit and land safely on the other side.
+You waste no time but head off east.
 <272>
+Although the Bloodbeast is too bulbous and heavy to climb out of its pool, its long tongue stretches and wraps itself around your leg.
+Still unconscious, you are dragged into its pool of slime. 
+After being predigested by the vile slime, the hideous Bloodbeast will consume you at its leisure.
 <273>
+The wooden ball smashes into the skull, knocking it off the plinth and on to the floor.
+Much to your surprise, the crossbows do not release their deadly bolts. 
+You step into the room cautiously and pick the skull up off the floor.
+You recognize the yellow jewelled eyes as topaz, and eagerly pluck them from their sockets.
+You put them in your backpack, wondering whether or not a trap still awaits you in the room.
+Will you:
+Get down on all fours and crawl out of the room holding the skull? Type 1.
+Replace the skull on the plinth before leaving the room? Type 2.
 <274>
+You step nervously on to the rope, not daring to look down.
+Halfway across, you start to panic and lose your footing.
+Roll two dice and see if the total is greater than your SKILL.
 <275>
+Thick smoke rises up from the floor where the acid has fallen from the broken jug.
+You crawl along the floor desperately trying to find drinkable water in the shallow pools of the dripping tunnel.
+TEST YOUR LUCK
 <276>
+As you try to charge down the door with your shoulder, you hear the shrieking voices of the Troglodytes coming down the tunnel.
+You are trapped and draw your sword.
+The Troglodytes approach you, their bows drawn, and a hail of arrows strikes you with fatal impact.
+Your lifeless body slumps to the ground in the depths of Deathtrap Dungeon.
 <277>
+The tunnel takes a sharp right turn and then, a hundred metres ahead, comes to a junction.
+Looking left, you see two bodies lying on the floor.
+You decide to go and investigate.
 <278>
+Your blade strikes one of the Bloodbeast's real eyes with devastating effect.
+It slumps back into its pool, thrashing about in a frenzy.
+You seize your opportunity and run round the side of the pool to the tunnel exit.
 <279>
+You arrive at a junction in the tunnel. 
+A new branch leads west, but the wet footprints you have been following continue north.
+You decide to keep following the footprints.
 <280>
+The tunnel continues east for quite a long way before reaching a junction.
+The walls, ceiling and floor of the tunnel leading south are covered with a thick green slime.
+You decide it would be safer to head north.
 <281>
+With one swipe of your trusty blade you behead the Boa Constrictor.
+You uncoil its massive body from around the Elf and try to resuscitate her.
+Her eyes open a little, but you can see that there is no hope.
+She looks at you and smiles, then says in a whisper,
+'Thank you. I know it's too late for me, but I will tell you what I have learned.
+Your way out lies ahead, but you need gems to unlock the final door.
+One of them is a diamond, but I do not know what the others are.
+Alas, I have not found a diamond, but would urge you to look for one.
+Good luck.' Her eyes close and she slumps down on to the cold floor.
+You watch sadly as she breathes her last.
+Knowing she would not mind, you take two of her daggers and search her leather backpack.
+Inside you find some unleavened bread, a mirror and a bone charm in the shape of a monkey.
+If you wish to eat the bread, type 1.
+If you would rather just take the mirror and charm and return to the tunnel to head north, type 2.
 <282>
+The tunnel soon ends at a junction.
+Standing alone and wondering which way to go is one of your rivals. It is one of the Barbarians.
+You call out to him, but at first he does not answer, he merely stares at you coldly, his hands firmly gripping his axe.
+You walk up to him and ask which way he is heading.
+He grunts his reply, saying that he is going west, and you may go with him if you wish.
+If you would like to head west with the Barbarian, type 1.
+If you would rather decline his offer and head east alone, type 2.
 <283>
+You have to squeeze yourself deep into the crack to conceal yourself completely.
+From this cramped position you are unable to see the owner of the feet that shuffle slowly by.
+A minute later all is quiet again, so you pull yourself back out into the tunnel and head west.
 <284>
+Have you drunk a potion found in a black leather book?
 <285>
+You land heavily on your back, but luckily your backpack cushions your fall.
+Lose 1 SKILL point and 2 STAMINA points.
+The darkness is almost pitch black at the bottom of the pit, an dyou crawl along the floor, groping in front of you.
+Suddenly your hand touches something cold, hard and smooth.
+The object is small and round, but you cannot figure out what it is.
+You place it in your backpack, hoping to see what it is once out of the pit.
+You continue to crawl forward and soon reach the pit wall.
+It is too smooth to climb, and you have to cut hand- and toe-holds in it with your sword.
+This takes a long time, but finally you climb out of the pit on the east side.
+You immediately check out the object in your backpack, and discover that you have found an orb of blood-red ruby.
+You are absolutely delighted and head off east in high spirits, whistling softly under your breath.
 <286>
+It was obviously a mistake to drop your weapons earlier, but at least you can now take those of the dead Ninja.
+You select one of his long knives and his long curved sword.
+Its steel cutting edge is exceptionally hard, and you cannot help but admire its awesome beauty.
+Add 4 SKILL points.
 <287>
+You just have time to hear the Gnome say, 'One crown and two skulls',
+before a white bolt of energy shoots out from the lock into your chest, knocking you unconscious.
+Roll one die, add 1 to the number and reduce your STAMINA by the total.
+If you are still alive, you come to and are told by the Gnome to try again.
+You know you placed one gem in the correct slot, but which one?
+You sigh and tentatively try a new combination.
+1) Emerald		Diamond		Sapphire
+2) Diamond		Sapphire	Emerald
+3) Sapphire		Emerald		Diamond
+4) Emerald		Sapphire	Diamond
+5) Diamond		Emerald		Sapphire
+6) Sapphire		Diamond		Emerald.
 <288>
+You look to your left and see Throm standing over the Cave Troll he has slain.
+Blood is pouring out from a deep cut in his shoulder, but it does not seem to worry him.
+You search the bodies of the Cave Trolls, but find nothing apart from a bone ring on a leather cord hanging round the neck of one of them.
+The ring explains that it must have belonged to the druids of the north and that an ancient talisman such as this will increase your powers if your body is able to accept it.
+Throm will not touch it, and advises you to leave it well alone.
+If you wish to put the ring on, type 1.
+If you would rather continue east with Throm, type 2.
 <289>
+The drape rises to the top of the cage and there, to your horror, you see the face of an aged woman whose hair is a mass of seething snakes.
+It is the dreaded MEDUSA!
+TEST YOUR LUCK
 <290>
+Roll two dice and see if the total is eight.
 <291>
+The tunnel continues north a long way before turning sharp right.
+Around the corner you come to a dead end.
+Only the mouth of a wooden chute in the wall offers any hope of further progress.
+You decide to take a chance and climb into the chute.
+You slide gently down and emerge into a room, landing on your back.
 <292>
+A door comes into view in the left-hand wall of the tunnel.
+You listen carefully at the door but hear nothing.
+The door is not locked and the handle turns easily.
+If you wish to open the door, type 1.
+If you would rather keep walking along the tunnel, type 2.
 <293>
+Following the three sets of wet footprints along the west passage of the tunnel, you soon arrive at a junction.
+If you wish to continue west, following two sets of footprints, type 1.
+If you wish to head north, following the third set of footprints, type 2.
 <294>
+You pull the dagger from your belt with your free hand and hack at the Bloodbeast's tongue.
+The beast screams in pain and rolls forward as far as it can to try and clasp you between its blood-filled jaws.
+You must fight it from the floor with your dagger.
+Reduce your SKILL by 2 during this combat because you are not fighting with your sword.
+BLOODBEAST	Skill: 12	Stamina: 10
 <295>
+Running towards the archway, you stumble over a rock and lose your footing.
+You land sprawled on the floor, and before you have time to get up again, a stalactite crashes down on top of you, its pointed tip piercing your leg.
+Lose 5 STAMINA points.
 <296>
 <297>
 <298>

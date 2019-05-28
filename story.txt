@@ -1647,42 +1647,204 @@ Running towards the archway, you stumble over a rock and lose your footing.
 You land sprawled on the floor, and before you have time to get up again, a stalactite crashes down on top of you, its pointed tip piercing your leg.
 Lose 5 STAMINA points.
 <296>
+Ahead you see that the tunnel turns a corner, beyond which it continues north. 
+You stop before the corner, startled by the sound of high-pitched voices whispering and sniggering. 
+If you wish to draw your sword and look round the corner, type 1.
+If you would rather walk back to the junction to head north, type 2.
 <297>
+Losing your hard-earned possessions is becoming a bit of a problem.
+Lose 1 LUCK point.
+Without even pausing to thank you, Ivy pushes you out of her chamber through a door in the east wall,
+and you find yourself standing at the end of another tunnel.
 <298>
+You see a backpack propped up against the tunnel wall.
+You wonder if it belongs to one of your rivals.
+If you wish to look inside the backpack, type 1.
+If you would rather continue north, type 2.
 <299>
+The door opens into a large chamber, where you are shocked to see one of your rivals, who has obviously met a sudden gory death.
+It is one of the Barbarians, and he is impaled on several long iron spikes which are fixed to a frame that has sprung out of the floor. 
+A lot of rubbish and debris litters the floor, concealing a hidden trip wire which he must have stepped on and thus released the spiked frame. 
+In the far wall is an alcove, in which you can see a silver goblet standing on a small wooden table. 
+Will you:
+Walk over to search the Barbarian? Type 1.
+Walk towards the alcove? Type 2.
+Close the door and continue west? Type 3.
 <300>
+You swing your sword against the mirror with all your might, but to no effect;
+the mirror does not break, and the Mirror Demon keeps advancing.
+If you wish to try and smash the mirror again, type 1.
+If you would rather attack the Mirror Demon instead, type 2.
 <301>
+The pipe is wet and slimy, but you crawl on into the dank darkness, slithering and sliding as you go.
+Suddenly your hand touches something hard and square which feels as if it is made of wood. 
+It rattles as you shake it, and you decide you must be holding a box. 
+If you wish to crawl back out of the pipe and examine your find, type 1.
+If you would rather press on further down the pipe, taking the box with you to examine later, type 2.
 <302>
+After about twenty minutes the Dwarf reappears on the balcony. 
+He calls down to you, saying, 'Well, I do have an interesting problem on my hands. 
+Prepare to fight your next opponent.' 
+The wooden door rises once again and you are surprised to see a familiar face. 
+It is Throm! He is cut and badly bruised, and doesn't seem to recognize you. 
+He is clearly delirious as he staggers forward with his axe raised to attack you. 
+The Dwarf laughs and says, 'The cobra bit him, but he has the strength of an ox and managed to carry on, 
+even though most men would have died. 
+Now you must fight him to decide finally which of you will continue the Trial of Champions.' 
+You shout abuse at the Dwarf protesting against the cruelty of such a contest. 
+He merely laughs, and you have no option but to defend yourself against poor Throm.
+THROM	Skill: 10	Stamina: 12
 <303>
+With your free hand, you reach into your backpack and take out the jug. 
+Uncorking it with your teeth, you pour the acid over the door, which is in fact the fluid form of an IMITATOR. 
+A jet of smoke rises from it with a loud hissing sound as the acid immediately starts to burn the Imitator. 
+It melts rapidly and you are able to step away unharmed. 
+Having no other choice, you somewhat apprehensively turn the handle of the other door.
 <304>
+There is a single Gold Piece lying in the bottom of the backpack.
+As you reach for it, you suddenly feel a light tickling movement on the back of your hand.
+You withdraw your hand slowly, trying to control your mounting panic, and are horrified to see a BLACK WIDOW SPIDER.
+Before you can shake it off, it sinks its poisonous fangs deep into your wrist.
+Lose 6 STAMINA points.
 <305>
+The tunnel ends at a flight of stone steps leading downwards.
+From the floor below you can hear the sound of barking dogs.
+Have you got an old bone with you?
 <306>
+Before you can take a single step towards the Leprechauns, one of them throws some sparkling dust at you. 
+You are immediately frozen to the spot, unable to move a muscle. 
+You watch helplessly as the Leprechauns rummage through your backpack and run off with all your possessions, leaving your backpack empty. 
+Lose 2 Luck points. 
+About an hour later the freezing effect of the dust wears off and feeling returns to your limbs. 
+You are angry at your loss and stomp off north, determined to have your revenge.
 <307>
+The cupboard contains a wooden mallet and ten iron spikes, which you put in your backpack while wondering which door to open.
+If you wish to open the west door, type 1.
+If you wish to open the north door, type 2.
 <308>
+The Medusa shrieks as you enter her cage, keeping your eyes firmly closed and slashing your sword wildly from side to side. 
+You feel the blade sink deep into her side and hear a loud thud as she slumps heavily to the ground. 
+You open your eyes again and shudder at the sight of the prostrate figure of the Medusa. 
+Her gown is fastened by a large brooch bearing a single bright red gem. 
+It is a garnet, and you prise it out of its setting, put it in your pocket and leave the room to head north.
 <309>
+You scramble frantically around the floor in search of a pool of water, but do not find one.
+The acid burns with a searing pain deep down in your throat.
+Lose 3 STAMINA points.
+If you are still alive, TEST YOUR LUCK.
 <310>
+You reach the far wall of the chamber and see two doors.
+If you wish to open the door to your left, type 1.
+If you wish to open the door to your right, type 2.
 <311>
+The Barbanan reluctantly agrees to your alternative suggestion. 
+You both step back and take running jumps over the pit. 
+Landing safely on the other side, you continue down the tunnel. 
+The Barbarian, who is leading the way, suddenly stumbles on a floor stone which tilts forward, triggering a boulder loosely set in the ceiling. 
+It crashes down on top of him, knocking him to the floor and crushing his skull. You must continue your quest alone.
 <312>
+The razor-sharp disc whistles past your head and bites deep into one of the pillars.
+Turning to face your would-be assassin, you prepare yourself as he advances, his long sword drawn.
+NINJA	Skill: 11	Stamina: 9
 <313>
+The tunnel ends at a junction.
+The footprints that you have been following turn north and you decide to stay with them.
 <314>
+Your sword cleaves the handle and, being separated from its parent body, you watch the membrane shrivel away and drop on to the floor.
+Having no other choice, you somewhat apprhensively turn the handle of the other door.
 <315>
+The funnel veers sharply to the left and comes to an end at a high wall in which there is a door. 
+You hear a ferocious roar from the other side of the wall and you wonder what gargantuan beast could make such a noise. 
+Do you have a coil of rope and a grappling iron?
 <316>
+The tunnel continues for aquite a distance before you reach a junction.
+If you wish to head west into the new tunnel, type 1.
+If you would rather continue north, type 2.
 <317>
+Tapping the side of the borehole with your sword, you tread your way blindly through the sticky slime. 
+You follow its twisting and turning course for what seems an age and begin to wonder where it might lead. 
+Suddenly you hear a slithering sound up ahead. 
+You freeze with fear, your eyes desperately trying to pierce the pitch-black darkness. 
+Before you realize what is happening, you are gripped round the neck by the powerful mandibles of another Rock Grub. 
+It is the mate of the Rock Grub you killed and has been attracted by the smell of blood on your sword. 
+It squeezes harder until your neck snaps like a small twig. Your adventure ends here.
 <318>
+After crossing the bridge, you run across the cavern floor.
+At last you see a tunnel in the far wall, which you race down until you reach its end at a heavy wooden door.
+The door is locked. Do you have an iron key?
 <319>
+Your armour and sword weigh you down more than you think.
+In mid-air you realize with horror that you are not going to reach the other side of the pit.
+You crash into the side of the pit, some two metres below the rim, and tumble head over heels to the bottom.
 <320>
+You decide to search the Ninja and find a cloth bag in the folds of his robes. 
+Inside it is a flask of water, some rice wrapped in a palm leaf, a jar of ointment and a beautiful diamond. 
+Will you:
+Eat the rice and drink the water? Type 1
+Rub some of the ointment into your wounds? Type 2
+Take only the diamond and leave the hall? Type 3
 <321>
+You pull the cord and watch the drape as it rises up the sides of an iron cage.
+The woman's voice urges you to be quick, telling you that the room is booby-trapped so that the floor will fall away in one minute because of your extra weight.
+If you still wish to help her, type 1.
+If you would rather leave the room and head north up the tunnel, type 2.
 <322>
+You pass the wooden chair and soon get back to the junction, turning right to head west.
 <323>
+After tying the rope around the rock, you lower yourself slowly to the bottom of the pit.
+Throm retrieves his rope by shaking it off the rock, and you set off together down the new tunnel.
 <324>
+Have you talked to the crippled servant of the Trialmasters?
 <325>
+You stand up and carry on down the tunnel.
+Suddenly you see daylight at the end of the tunnel.
+You run forward towards the most beautiful sight you have seen for a long time, a clear blue sky and green trees. 
+You walk as fast as you can towards the end of the tunnel and emerge expecting to see the welcoming sight of cheering people.
+But there is no hero's welcome from the people all around you. They are all dead.
+You are standing in a cold chamber littered with armoured skeletons and bodies.
+The exit to victory was just an illusion.
+Only the corpses of the past adventurers are real.
+Utterly dejected, you walk back towards the tunnel, but hit an invisible barrier.
+You are trapped in this ghoulish place destined to end your days in the chamber of the dead. 
 <326>
+Ahead you see that the tunnel turns sharply to the left.
+You turn the corner and almost bump straight into two fierce-looking ORCS, armed with morning stars and wearing leather armour.
+You are totally unprepared, and as you draw your sword, one of them swings its morning star at you.
+Roll one die and see what you get.
 <327>
+The Mirror Demon, being solely intent on bragging your arm, makes no attempt to defend itself.
+MIRROR DEMON	Skill: 10	Stamina: 10
 <328>
+You gaze round Ivy's room. Seeing a Painting of another Troll hanging on the wall, you ask her if he is any relation. 
+Suddenly her mood and expression change. She loosens her grip on you and smiles, saying, 
+'Oh yes. That is my dear beloved brother, Sourbelly. 
+He has done very well for himself down south in Port Blacksand. 
+He is now an Imperial Guard in Lord Azzur's elite troop.
+I'm very proud of him.' Ivy stares at the painting and continues to praise her brother. 
+If you wish to slip out of the chamber through the door in the east wall, type 1.
+If you would rather continue the conversation, type 2.
 <329>
+You step up to the mirror and are amused by your distorted reflection. 
+Your head looks as large as a pumpkin and your face is exceedingly strange. 
+Suddenly, without warning, a terrible pain pounds through your head and you try to look away from the mirror, but you are unable to. 
+Some evil force is keeping your eyes glued to your own reflection.
+You grip your head with your hands and realize with horror that it is expanding. 
+You can withstand it no longer and, blacking out with the pain, you fall unconscious to the floor, never to wake.
 <330>
+The Ninja's rations are basic but welcome.
+Add 1 STAMINA point.
+If you have not done so already, you may either rub some of the ointment into your wounds: Type 1.
+Or leave the hall taking just the diamond: Type 2.
 <331>
+Touching the parchment has precisely the effect you had feared. 
+The skeleton lurches forward and, rising from its chair in a series of jerky movements, raises its sword to strike you. 
+Lunging sideways, you draw your sword to defend yourself.
+SKELETON WARRIOR	Skill: 8	Stamina: 6
 <332>
+Your gem drops into the pool with a dull 'plop'. 
+As you wait for something to happen, you start to feel faint. 
+The gas rising from the pool is toxic, and you slump to the floor unconscious.
+TEST YOUR LUCK
 <333>
 <334>
 <335>

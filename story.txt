@@ -925,95 +925,523 @@ Or back away in disgust and leave the cavern? Type 2.
 <169>
 <170>
 <171>
+The door swings open into a small room, but before you know what is happening, you find yourself falling through thin air - there was a pit behind the door which you did not see.
+You land heavily at the bottom and wince with pain.
+Lose 4 STAMINA points.
+The pit walls are roughly chiselled and have plenty of toe- and finger-holds, so you are able to clamber out quite easily. 
+You curse your own eagerness and tell yourself to be more careful in future when entering rooms.
+Inside the room you see two iron hooks on the wall opposite the door.
+A coil of rope is hanging on one of them. You put it in your backpack, jump back over the pit to leave the room and head north.
 <172>
+Remembering the description of the vile Bloodbeast and the warning about toxic gas rising from its pool, you cover tyour mouth with your sleeve and step forward with your sword drawn,
+wary of the Bloodbeast's tongue. As you step round the side of its pool, it rolls forward and flicks out its tongue, but your are ready for it and cleave it with one swipe of your sword.
+The beast howls in pain and stretches forward frantically, trying to clasp you between its blood-filled jaws.
+You start hacking at its hideous face in an attempt to pierce its real eyes.
+BLOODBEAST	Skill:12	Stamina:10
 <173>
+The cool water is refreshing and comes from a source which has been sprinkled with Pixie dust.
+Add 1 STAMINA and 2 SKILL points.
+If you have not done so already, you may either drink from the other fountain. Type 1
+Or continue north. Type 2
 <174>
+As you make your way back to the doorway, the buzzing sound increases in intensity, and you look around desperately to discover where it is coming from.
+Glancing up in the nick of time, you see the huge and grotesque black shape of a GIANT FLY emerging from a recess high up in the cavern wall.
+As it gets closer, you realize that it is at least one and a half metres long.
+Its opaque wings vibrate, making the sickening buzzing noise you can hear, and its six black hairy legs are poised to grasp your body.
+Below its multi-faceted eyes is a long, shiny, black proboscis, which darts in and out venomously.
+You have stolen the Giant Fly's treasure from her brood of maggots, and you must take the consequences.
+TEST YOUR LUCK
 <175>
+Attached to the collar of one of the Guard Dogs is a metal capsule. You prise off the top and find a small tooth inside. 
+It is a leprechaun's tooth which will bring you good fortune. 
+Add 2 LUCK points. 
+You put the tooth in your pocket and set off east along the tunnel
 <176>
+Treading carefully, you slowly make your way up the steps. You soon reach the top without mishap.
+Continue along the new tunnel.
 <177>
+You just have time to hear the Gnome yell, 'Three crowns!', before the lock clicks open. 
+As the heavy door swings slowly outwards, the Gnome rushes towards it, hurling the glass ball at your feet. 
+Green gas escapes from the broken glass, and you try to avoid inhaling it.
+TEST YOUR LUCK
 <178>
+The door cannot withstand the furious battering you are giving it. 
+The centre panel cracks and splinters, enabling you to kick a hole in it large enough for you to squeeze through. 
+Wet but happy to have survived your ordeal, you set off north again
 <179>
+As you rush towards the Dwarf, he pulls two hand darts from his belt and he throws them at you and Throm, hitting both of you in the leg. 
+You are both instantly paralysed by the poison on the tip of the dart. 
+Lose 2 STAMINA points. 
+As though glued to the floor, you can only watch as the Dwarf retrieves his dart from your thigh. 
+He asks you whether you are willing to enter his contest now. 
+You strain to nod your head. Slowly, the effects of the poison wear off and mobility returns. 
+The Dwarf beckons you to follow him, telling Throm to await his return.
+He opens a secret door in the chamber wall and you follow him into a small circular room. 
+He closes the door behind you and hands you two bone dice, telling you to throw them on the floor. 
+You roll a six and a two, a total of eight. The Dwarf asks you to roll again, but this time you must predict the total: 
+will it be the same, or higher or lower than eight?
+If you wish to guess that it will be the same, type 1.
+If you wish to guess that it will total less than eight, type 2.
+If you wish to guess that it will total more than eight, type 3.
 <180>
+As you make a lunge at the Bloodbeast, you suddenly start to feel faint. 
+The gas rising up from the pool is highly toxic and you slump to the floor unconscious.
+TEST YOUR LUCK
 <181>
+The tunnel leads into a marble-floored hall with pillars rising right up to the ceiling. 
+As you cross the floor, your footsteps echo through the hall. 
+The hairs on the back of your neck start to prickle as you sense unseen eyes watching you. 
+Unknown to you, one of your rivals is hiding behind a pillar. 
+It is the NINJA, the deadly assassind dressed in black robes.
+Without a sound, he steps out from behind the pillar and throws a star-edged disc at your back. 
+Instinctively, an inner voice tells you to duck.
+TEST YOUR LUCK
 <182>
+The temperature continues to rise and you find yourself dripping with sweat. 
+As you struggle on, the heat intensifies until it feels like white heat and becomes so unbearable that you begin to pass out. 
+Did you drink the liquid from the bamboo pipe?
 <183>
+You climb on to your stilts and take a few tentative steps across the floor. 
+Your confidence grows, and you soon feel able to tackle the walk across the slime. 
+Smoke rises from the base of the stilts as the slime starts to burn them away. 
+You plod stolidly on and finally reach firm ground again. 
+Unfortunately, the stilts ares still covered in slime and you are forced to dump them. 
+Setting off north, you come to a junction. 
+If you wish to go west, type 1.
+If you wish to continue north, type 2.
 <184>
+The Barbarian, who tells you he is called Throm, ties the rope around his waist, giving you the free end.
+As he lights the torch, you see a look of distrust in his eyes. 
+Slowly, he climbs over the edge of the pit while you brace yourself and take the strain of the rope. 
+As you lower him little by little, you see the smooth sides of the pit illuminated by Throm's torch. 
+He finally reaches the bottom and calls up to you, saying that there is another tunnel running north. 
+He tells you to secure the rope around a rock protruding from the edge of the pit and lower yourself to the bottom. 
+If you wish to stay with the Barbarian and head north down the lower tunnel, type 1.
+If you wish to abandon him by jumping over the pit to head west, type 2.
 <185>
+The Troglodytes are too involved in their tribal dancing to hear the clatter of your sword, and you crawl past. 
+When you think you are far enough away, you stand up and run across the cavern floor.
+Ahead you see an underground river running east to west through the cavern with a wooden bridge crossing over it. 
+Hearing a noise, you glance back and realize you have been spotted. The Troglodytes are chasing you.
+If you wish to run over the bridge, type 1.
+If you wish to dive into the river, type 2.
 <186>
+Slowly and carefully, you begin to climb the idol. 
+You are about to grab hold of its large ear when suddenly your foot slips.
+TEST YOUR LUCK
 <187>
+The tunnel bends sharply to the right, and around the corner you see a little old man with a long beard, cowering behind a large wicker basket. 
+The basket is tied to a rope, the other end of which disappears into the ceiling. 
+The old man sounds very worried as he says, 'Do not attack me, stranger. I pose no threat to you. 
+I am here simply to help you. If you would be so kind as to offer me some sort of remuneration, I will gladly haul you up in the basket to the upper level. 
+And believe me, that is where you ought to be.' 
+If you wish to give the man something from your backpack for his services, type 1.
+If you would rather walk past him down the tunnel, type 2.
 <188>
+The tunnel starts to slope downwards and finally comes to an end at a deep pool enclosed by the tunnel wall.
+Do you remember the spirit girl's poem?
 <189>
+The Orc's morning star sinks agonizingly into your left thigh. 
+Lose 3 STAMINA points. 
+You stagger backwards, but manage to regain your balance in time to defend yourself. 
+Fortunately, the tunnel is too narrow for both Orcs to attack you at once. 
+Fight them one at a time.
+First ORC	Skill: 5	Stamina: 5
+Second ORC	Skill: 6	Stamina: 4
 <190>
+Your body vibrates wildly and you are unable to stop yourself passing out.
+Lose 3 STAMINA points.
 <191>
+Roll two dice and see if the total is less than eight.
 <192>
+Walking along the tunnel, you notice an iron grille in the floor.
+If you wish to stop and lift it up, type 1.
+If you prefer to keep walking, type 2.
 <193>
+The acid burns through your stomach wall, eating its way into your vital organs. You collapse unconscious, never to recover. 
+Your adventure ends here.
 <194>
+On a stone ledge in the tunnel wall you see two dusty leather-bound books. 
+Throm grunts his contempt for the written word, urging you to leave the books and hurry on. 
+Will you:
+Open the red leather book? Type 1.
+Open the black leather book? Type 2.
+Continue north along the tunnel? Type 3.
 <195>
+You draw your sword and rush towards the old man. 
+He raises his left arm and suddenly you hit and bounce off an invisible shield. 
+'Do not be foolish, my powers are great,' the old man says calmly.
+'If you do not believe me, watch this.'
+From out of nowhere a flying fist appears, which smashes into your face before ,you can duck. 
+Lose 1 STAMINA point. 
+You shake your head and rub your jaw. You appear to have no alternative but to try to answer his question.
 <196>
+You raise your shield in front of you just in time to protect yourself from a volley of spikes released from the Manticore's tail 
+and aimed straight at your heart. They sink into your shield and you remain unharmed. 
+Swiftly you draw your sword and advance on the Manticore.
+MANTICORE	Skill:11	Stamina: 11
 <197>
+Mercifully, the temperature now starts to drop rapidly, and soon it feels almost cool again. 
+On the left-hand side of the tunnel is a closed door. 
+It has a small iron plate in it, which might possibly slide open. Will you:
+Try to open the door? Type 1.
+Try to slide the iron plate? Type 2.
+Continue north up the tunnel? Type 3.
 <198>
+Once the gas has cleared, you walk back to the chest and look inside.
+There is a pendant chain lying in the bottom of it, but somebody has already removed the stone from its setting.
+This annoys you so much that you throw the chain on to the floor and storm out of the room and up the tunnel.
 <199>
+The crossbow bolts are far too many to evade.
+Roll one die to dtermine the number of bolts that sink into your body, and lose 2 STAMINA points for each one.
+If you are still alive, you must rest here a long time to recover from your wounds.
+Lose 1 LUCK point.
+When you eventually feel strong enough to carry on, you leave the room and continue west along the tunnel.
 <200>
+The door opens into a small room with a straw covered floor. 
+In the centre of the room there is a large draped cage standing some two metres high.
+There is a cord fixed to the top of the drape which runs up through an iron rung in the ceiling and hangs down to the floor.
+If you wish to pull the drape up, type 1.
+If you would prefer to leave the room and head north along the tunnel, type 2.
 <201>
+You search through the cupboards and boxes in Ivy's room, but you find nothing except for an old bone. 
+A door lies in the east  wall of the chamber and you decide to leave, taking the old bone with you if you wish. 
+You now find yourself standing at the end of another tunnel.
 <202>
+The cobra's reactions are quicker than yours, and its hooded head shoots forward to bite you.
+TEST YOUR LUCK
 <203>
+You stagger to your feet and draw your sword. 
+You are only just in time, for the fearsome beast is closing in on you fast. 
+This is going to be one of the toughest fights of your life.
+PIT FIEND	Skill: 12	Stamina: 15
 <204>
+There is an unseen pressure plate on top of the plinth, and as soon as the skull is put back on it, the device is sprung. 
+Immediately the crossbows release a shower of bolts across the room.
+TEST YOUR LUCK
 <205>
+Running after the Leprechauns, you hear more laughter, only now it is behind you. 
+You look round and see six more Leprechauns emerging from behind a hidden door in the tunnel wall. 
+Suddenly, yet another Leprechaun drops on your back from a ledge fixed to the ceiling. 
+Shaking him off your back, you draw your sword, whereupon the Leprechauns laugh even louder. 
+If you wish to attack them, type 1.
+If you would rather try to walk past them, type 2.
 <206>
+The stalactites continue to fall all around you, but you haven't enough strength to do more than crawl towards the archway. 
+Suddenly you feel an arm around your waist picking you up, and realize in your semi-conscious state that Throm is carrying you. 
+He lays you down in the safety of the tunnel and tends your wounds. 
+You decide to eat some of your Provisions to help regain your strength, and you also give one portion to Throm in gratitude for his rescuing you. 
+He apologizes for starting the rock-fall and offers you his hand to shake. 
+Despite the pain, you manage a smile and shake his hand.
+When you have finally recovered, you stand up and head east, with Throm leading the way.
 <207>
+You take off your shirt and tear it in half. 
+You wrap a piece around each foot to give yourself some sort of protection against the corrosive slime, and dash across it in giant leaps. 
+On the firm ground beyond the slime, you frantically try to rip the burning shirt off your feet with your sword. 
+However, some of the slime has eaten its way through to your ankle.
+Lose 3 STAMINA points. 
+Setting off north again, you come to a junction. 
+If you wish to go west, type 1.
+If you wish to continue north, type 2.
 <208>
+The door swings open into the room, and you step back and jump over the pit. 
+You put the rope in your backpack and jump back over the pit to leave the room and head north.
 <209>
+You are dismayed to find that not only are all your remaining Provisions saturated and inedible, but one of the treasures you found is missing.
+Cross off one item on your Equipment List, or one of your jewels or potions.
+You carefully repack your remaining possessions and set off north again.
 <210>
+You enter a room in which a man in tattered clothing is standing chained to the wall by his left arm. 
+You see that his right hand is missing and realize that his must be the hand nailed to the door. 
+Pleading for mercy, he cowers back from you as far as his chains will allow. 
+If you wish to cut him free from his chains, type 1.
+If you would rather leave the room to head north, type 2.
 <211>
+You manage to free yourself from Ivy's grip and draw your sword.
+Picking up a broken stool as a weapon, she advances towards you.
+IVY		Skill: 9	Stamina: 9
 <212>
+Gripping the rope firmly, you step back to take a running jump. 
+However, in the dim light you do not notice that someone has cut the rope almost in two just a little way above the section you are holding. 
+As you swing out across the pit it suddenly breaks, and you scream with fear as you plunge headlong to the depths below.
 <213>
+The tunnel soon divides into two. You hear a buzzing sound coming from the western branch. 
+If you wish to walk west to investigate who or what is making the noise, type 1.
+If you would rather continue north, type 2.
 <214>
+Walking along, you see a red line painted across the tunnel floor and notice a sign on the wall which reads:
+'No weapons beyond this point'.
+If you wish to abandon any weapons before continuing north, type 1.
+If you would rather ignore the notice and carry on north, type 2.
 <215>
+Your sword easily pierces the thin outer casing of the giant spore ball. 
+A thick brown cloud of spores bursts out of the ball and envelops you. 
+Some of the spores stick to your skin and start to itch terribly.
+Great lumps come up on your face and arms, and your skin feels as if it is on fire. 
+Lose 2 STAMINA points. 
+Frantically scratching your itching lumps, you step over the now deflated spore ball and head east.
 <216>
+Recognizing the snake-like head of the Medusa, you close your eyes to avoid her deadly stare that would turn you to stone.
+If you wish to enter her cage with your eyes closed to dispose of her with your sword, type 1.
+If you would rather retreat out of the room with your eyes closed to continue north, type 2.
 <217>
+The passage slowly starts to climb, leading you relentlessly northwards. 
+You do not come across a single junction. 
+There are no doorways or even an alcove to investigate, and you become less guarded as you plod on. 
+After a while you become so non-chalant that you fail to notice a thin tripwire stretched low across the passage.
+It is only when your foot catches it and you hear a distant rumble that you realize your mistake. 
+The rumbling sound swells to an almost deafening level, and suddenly out of the gloom of the tunnel ahead you see a massive boulder roiling towards you, 
+gathering speed with every second. Dropping your shield if you have one (lose l SKILL point), you turn to flee the oncoming boulder.
 <218>
+You soon arrive at a double door in the left hand wall. 
+You listen at the door but hear nothing. 
+You try the handle, it turns and you open the left door slightly and peer through the crack. 
+An armed warrlor is lying face down on the floor of a bare room with smooth walls and a low ceiling. 
+He is presumably dead, for he makes no movement even when you call out to him. 
+A large jewel, perhaps a diamond, lies just beyond his outstretched arm. 
+If you wish to enter the room and take the jewel, type 1.
+If you would rather continue north, type 2.
 <219>
+The pain'in your lungs forces you to rise to the surface for air. 
+Unfortunately, one of the Troglodytes sees you and yells to his comrades. 
+You watch helplessly as the bowmen take aim, and a hail of arrows falls on you with fatal impact. 
+Your lifeless body floats down-river, down into the hidden depths of the mountain.
 <220>
+A dull 'bong' sounds from the bell like a death toll.
+Everything around you starts to vibrate, and you grit your teeth as your head too starts to shudder.
+Your whole body is trembling and you fall to the floor. 
+You quiver and shake, writhing convulsively on the floor as the vibiations intensify. 
+Lose 2 SKILL points and 2 STAMINA points. 
+You search desperately for a way of stopping the bell. Will you:
+Scream as loud as you can? Type 1
+Try to deaden the bell with your boot? Type 2
 <221>
+The tunnel leads into a damp, high-ceilinged cavern with a rock-strewn floor. 
+Long dripping teeth-like stalactites hang down threateningly, their constant dripping creating milky pools on the floor. 
+The tunnel carries on through an archway carved in the shape of a demonic mouth.
+If you wish to search the chamber, type 1.
+If you would rather head straight for the archway, type 2.
 <222>
+You recognize the beast - it is a MANTICORE.
+Taking heed of the poem's warning, you watch out for its tail which sprouts a profusion of sharp spikes, thick and hard as iron bolts, at its tip.
+Do you have a shield?
 <223>
+You step confidently on to the first pole and stride across to the next. 
+As you land on the third pole, it immediately releases a shower of sharp splinters, each several centimetres long. 
+Lose 2 LUCK points.
+They fly out in all directions at great speed, and you cannot avoid being hit. 
+Roll two dice for the number of splinters that sink into your flesh. 
+Each one reduces your STAMINA by one point. 
+If you are still alive, you manage to scramble over the remaining poles and sit down to the painful task of removing the splinters from your body. 
+After resting for a while, you set off east again.
 <224>
+There does not appear to be any way of travelling further north. 
+You turn around and walk back down the tunnel, passing the wooden chair. 
+You soon arrive at the junction and turn right to head west.
 <225>
+You react quickly and manage to cleave the Bloodbeast's outstretched tongue with one swipe of your blade. 
+The beast screams in pain and hurls itself forward to try and clasp you between its blood-filled jaws. 
+This will be a fight to the death.
+BLOODBEAST	Skill: 12	Stamina: 10
+As soon as you win your first Attack Round, TEST YOUR LUCK
 <226>
+The meat contains herbs which will increase your strength.
+Add 3 to your STAMINA score.
+You may either walk over to the alcove if you have not done so already: Type 1.
+Or leave the chamber to continue west: Type 2.
 <227>
+Still smiling, the old man looks at you. 'Wrong,' he says quietly.
 <228>
+You reach down into the hole. Suddenly your blood runs cold as you feel something warm and sticky wrapping itself around your arm. 
+You manage to pull your arm out of the hole, but a hideous tentacled limb with unbelievably strong suckers is clinging to your arm. 
+By the time you manage to cut yourself free, your arm is trembling with pain.
+TEST YOUR LUCK
 <229>
+As soon as your head goes under the blue light, you hear the sound of muffled voices.
+The faces are no longer laughing, but have changed their expressions to ones of despair and anguish.
+A young girl's sad face hovers in front of you, and she begins to whisper a poem.
+Transfixed you listen intently, believing that she has a special message for you as she recites:
+	'When corridor doth water meet,
+	Do not make a quick retreat.
+	Take a breath and jump deep in
+	If your Trial you hope to win.'
+Memorizing the spirit girl's poem, you step through the shaft of light and quickly head on north. 
 <230>
+The tunnel starts to widen, and ahead you see it open into a huge cavern from where you can hear the sound of many high-pitched voices. 
+You creep up to the entrance and take a look inside. 
+There are about twenty tiny people with long noses and ears running in a circle around a large golden effigy. 
+Will you:
+Walk up and talk to them? Type 1.
+Try to creep past them? Type 2.
+Drink a Doppelganger Potion (if you have one)? Type 3.
 <231>
+You find a pool behind the dead Hobgoblins and take great gulps of the cool water as fast as you can. 
+This neutralizes the acid and slowly you begin to recover. 
+Still in pain, you stand up and set off north.
 <232>
+Are you unarmed?
 <233>
+You break off a large piece of the mushroom and bite into it eagerly. 
+Immediately your stomach feels bloated and you can even see it beginning to bulge below your belt. 
+Your whole body starts to expand, bursting out of your clothes with a loud ripping sound. 
+You grow bigger and bigger, and soon your face is pressed against the ceiling. 
+The mushrooms you have eaten are much sought after by wizards for their growth potions, but to you they spell doom.
+You are too large ever to leave the cellar, and your adventure ends here
 <234>
+A little farther on you come to a section of the tunnel which is covered with thick green slime. 
+It looks threatening, so you decide to test it first with a piece of cloth. 
+The slime's corrosive jelly burns the cloth instantly, leaving no trace. 
+Are you carrying a pair of stilts?
 <235>
+You have no time to react before the dart thuds into your thigh.
+Lose 2 STAMINA points.
 <236>
+The fist retracts and prepares to strike again. With your free hand you draw your sword and try to cut the handle of the door. 
+Although you do not recognize it, you are being attacked by the fluid form of an IMITATOR.
+IMITATOR	Skill:9		Stamina: 8
 <237>
+The tunnel makes a sudden left turn and continues north for as far as you can see.
+You soon arrive at a closed wooden door in the left-hand wall.
+If you wish to open the door, type 1
+If you would rather keep going north, type 2.
 <238>
+As you fall, you manage to grab the rope with your hands. 
+Slowly you haul yourselfover to the far side and scramble up on to the floor. 
+You lift the helmet off the pole and put it on your head. 
+It has been made by a highly skilled ironsmith. 
+Add 1 SKILL point. Not wishing to risk walking back across the tightrope, you decide to crawl along it. 
+Safely back on firm ground, you step through the archway and head north up the tunnel.
 <239>
+Not much farther down the tunnel you come to a closed door on your left. 
+Putting your ear to the door, you listen intently but hear nothing. 
+If you wish to open the door, type 1.
+If you wish to keep walking north, type 2.
 <240>
+You look down and see the crumpled bodies of the two Flying Guardians lying motionless on the floor. 
+You start to prise out the idol's emerald eye with the tip of your sword. 
+At last it comes free and you are surprised by its weight when it falls into your hand.
+Hoping it may be of use later, you put it in your backpack. 
+If you now wish to prise out the right eye, type 1.
+If you would rather climb down the idol, type 2.
 <241>
+A brown velvet curtain is draped over an archway in the eastern wall of the tunnel.
+If you wish to pull back the curatin and walk through the archway, type 1.
+If you would rather continue north, type 2.
 <242>
+You shake your head, trying desperately to stop yourself from blacking out, but the heat is too much for you and you fall unconscious to the floor. 
+Roll two dice and see if it is greater than your SKILL.
 <243>
+Covering your nose and mouth with your hand to avoid breathing in the gas, you follow the Gnome through the open door.
+You enter another tunnel, at the end of which is the welcome sight of daylight.
+Much to your surprise, you see the Gnome lying dead halfway down the tunnel. 
+A crossbow bolt protrudes from the side of his head. The Gnome, in his bid for freedom, has fallen foul of Baron Sukumvit's final trap. 
+You walk past him and out into brilliant sunshine.
 <244>
+He takes your Gold Piece and tells you that in a northern tunnel there is a wooden chair carved in the shape of a demon bird.
+In the arm of the chair is a secret panel which contains a potion in a glass phial.
+'It's a Doppelganger Potion, if I remember right. Good luck. 
+I hope we meet again outside these infernal tunnels.'
+The man shuffles off and you continue your journey.
 <245>
+You have no choice but to open the door, as the wall is too smooth to climb. 
+Taking a deep breath, you turn the handle and enter a sand-covered pit. 
+There, standing some ten metres tall on its huge hind legs in front of large double doors in the opposite wall, is an enormous dinosaur-like monster. 
+It has a tough, mottled green hide and a mouth lined with razor sharp teeth. 
+Its jaws open and close with bone snapping power, and even you cannot help trembling as you approach it with your sword drawn.
+PIT FIEND	Skill: 12	Stamina: 15
 <246>
+Despite being as careful as possible, your leg brushes against one of the poles.
+It immediately releases a shower of sharp splinters, each several centimetres long.
+Lose 2 LUCK points.
+They fly out at great speed and in all directions, and you cannot avoid being hit.
+Roll two dice for the number of splinters that sink into your flesh.
+Each splinter reduces your STAMINA by one point.
+If you are still alive, you sit down to the painful task of removing the splinters from your body before setting off east.
 <247>
+The beast before you is the dreaded MANTICORE.
+The tip of its tail sprouts a profusion of sharp spikes, thick and hard as iron bolts.
+Suddenly it flicks its tail, sending a volley of spikes flying towards you.
+Roll one die. This is the number of spikes that sink into your body.
+Lose 2 STAMINA points for each spike.
+If you are still alive, you stagger forwards to attack the Manticore with your sword before it has time to unleash any more of its spikes.
+MANTICORE	Skill: 11	Stamina: 11
 <248>
+The doors open into a tunnel running north.
+You close the doors behind you and set off once again.
 <249>
+You just have time to hear the Gnome say, 'One crown and two skulls', 
+before a white bolt of energy shoots out from the lock into your chest, knocking you unconscious. 
+Roll one die, add 1 to the number and reduce your STAMINA by the total. 
+If you are still alive, you come to and are told by the Gnome to try again. 
+You know you placed one gem in the correct slot, but which one? 
+You sigh and tentatively try a new combination.
+1) Emerald		Diamond		Sapphire
+2) Diamond		Sapphire	Emerald
+3) Sapphire		Emerald		Diamond
+4) Emerald		Sapphire	Diamond
+5) Diamond		Emerald		Sapphire
+6) Sapphire		Diamond		Emerald
 <250>
+As you run for the door, the old man calls out behind you, 
+'Do not run, nobody escapes me.
+Stop, or I shall turn you to stone this instant!'
+Will you:
+Keep on running? Type 1.
+Turn to attack him with your sword? Type 2
+Tell him you will answer his question?	Type 3
 <251>
+Once again the mysterious voice calls out, only this time, to your great surprise, in a far less threatening tone, 
+'Good, my master likes those who show spirit.
+Take this gift to help you. It will grant you one wish, but one wish only. Farewell'
+A gold ring magically appears out of nowhere and lands at your feet with a gentle tinkle. 
+You pick it up and put it on one of your fingers. 
+The door opens and you step back into the tunnel to continue north.
 <252>
+The tunnel continues north for quite a distance before coming to a dead end. 
+The mouth of a chute protrudes from the western wall, and it appears to be the only alternative to turning back. 
+You decide to risk it and climb into the chute. 
+You slide gently down and emerge into a room, landing on your back.
 <253>
+You take the bone out of your backpack and throw it down the stairs. 
+The barking grows louder, changing to snarls and growls when the bone lands on the floor. 
+You walk slowly down the steps with your sword drawn and see two huge black GUARD DOGS fighting over the bone. 
+You run quickly past them and on down the tunnel.
 <254>
+You draw your sword and advance slowly towards the huge, slimy Rock Grub.
+ROCK GRUB	Skill: 7	Stamina: 11
+You may Escape after two Attack Rounds by running west down the tunnel.
 <255>
+As you run round the narrow path, you suddenly start to feel dizzy. 
+The gas from the pool is taking effect: your vision starts to blur and you lose your balance. 
+You are only half aware of the Bloodbeasts tongue as it wraps itself around your leg and drags you into the pool of slime. 
+After being predigested by the vile slime, the hideous Bloodbeast will consume you at its leisure.
 <256>
+Remembering the old man's advice, you search the arm of the chair for a secret panel. 
+You find an almost invisible crack in the arm, which you start to press and squeeze. 
+Suddenly a tiny panel springs out of the arm and you see a glass phial lying in a cavity. 
+You pick it out and read the label: 
+'Doppelganger Potion - one dose only. This liquid will make you assume the shape of any nearby living being.'
+You place the strange potion in your backpack and continue north.
 <257>
+Inside one of the Orcs' pockets you find one Gold Piece and a hollow wooden tube.
+You put your findings in your backpack and set off west.
 <258>
+You are exhausted and sit down for a rest on the tail of the dead beast.
+Looking down at your feet, you suddenly notice an iron ring poking up through the sand.
+If you wish to pull the ring, type 1.
+If you would rather leave the pit via the double doors, type 2.
 <259>
+Ignoring the pain, you run onn.
+Ahead you see an underground river running east to west through the cavern, with a wooden bridge crossing over it.
+You look behind and see the Troglodytes in hot pursuit.
+If you wish to run over the bridge, type 1.
+If you wish to dive into the river, type 2.
 <260>
+You just manage to grab the idol's earlobe and regain your footing.
+You scramble over its face and sit down on the bridge of its nose.
+You draw your sword and consider which jewelled eye to prise out first.
+If you wish to prise out the left eye, type 1.
+If you wish to prise out the right eye, type 2.
 <261>
 <262>
 <263>

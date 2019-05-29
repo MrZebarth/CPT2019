@@ -1,1628 +1,2435 @@
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.Random;
+import java.lang.reflect.*;
 
 public class Main {
 	static Story s;
 	static Scanner in;
 	static Character p;
 	static Random rnd;
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		//MAIN PROGRAM
 		//Create a Character
 		p=new Character();
 		//Create a Story class. Read in the story and save it.
 		s=new Story();
+		in=new Scanner(System.in);
 		//Start in Chapter 1
-		c1();
+		int nextChap=0;
+		do {
+			Main m=new Main();
+			Method x=m.getClass().getMethod("c"+nextChap);
+			nextChap=(int)x.invoke(m);
+		}while (nextChap<401);
 	}
 	
-	public static void c0(){
+	public int c0(){
 		s.printText(0);
+		int nextChap=400;
+		in.nextLine();
+		return nextChap;
 	}
 
-	public static void c1(){
+	public int c1(){
 		s.printText(1);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c2(){
+	public int c2(){
 		s.printText(2);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c3(){
+	public int c3(){
 		s.printText(3);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c4(){
+	public int c4(){
 		s.printText(4);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c5(){
+	public int c5(){
 		s.printText(5);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c6(){
+	public int c6(){
 		s.printText(6);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c7(){
+	public int c7(){
 		s.printText(7);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c8(){
+	public int c8(){
 		s.printText(8);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c9(){
+	public int c9(){
 		s.printText(9);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c10(){
+	public int c10(){
 		s.printText(10);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c11(){
+	public int c11(){
 		s.printText(11);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c12(){
+	public int c12(){
 		s.printText(12);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c13(){
+	public int c13(){
 		s.printText(13);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c14(){
+	public int c14(){
 		s.printText(14);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c15(){
+	public int c15(){
 		s.printText(15);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c16(){
+	public int c16(){
 		s.printText(16);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c17(){
+	public int c17(){
 		s.printText(17);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c18(){
+	public int c18(){
 		s.printText(18);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c19(){
+	public int c19(){
 		s.printText(19);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c20(){
+	public int c20(){
 		s.printText(20);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c21(){
+	public int c21(){
 		s.printText(21);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c22(){
+	public int c22(){
 		s.printText(22);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c23(){
+	public int c23(){
 		s.printText(23);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c24(){
+	public int c24(){
 		s.printText(24);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c25(){
+	public int c25(){
 		s.printText(25);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c26(){
+	public int c26(){
 		s.printText(26);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c27(){
+	public int c27(){
 		s.printText(27);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c28(){
+	public int c28(){
 		s.printText(28);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c29(){
+	public int c29(){
 		s.printText(29);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c30(){
+	public int c30(){
 		s.printText(30);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c31(){
+	public int c31(){
 		s.printText(31);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c32(){
+	public int c32(){
 		s.printText(32);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c33(){
+	public int c33(){
 		s.printText(33);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c34(){
+	public int c34(){
 		s.printText(34);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c35(){
+	public int c35(){
 		s.printText(35);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c36(){
+	public int c36(){
 		s.printText(36);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c37(){
+	public int c37(){
 		s.printText(37);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c38(){
+	public int c38(){
 		s.printText(38);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c39(){
+	public int c39(){
 		s.printText(39);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c40(){
+	public int c40(){
 		s.printText(40);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c41(){
+	public int c41(){
 		s.printText(41);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c42(){
+	public int c42(){
 		s.printText(42);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c43(){
+	public int c43(){
 		s.printText(43);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c44(){
+	public int c44(){
 		s.printText(44);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c45(){
+	public int c45(){
 		s.printText(45);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c46(){
+	public int c46(){
 		s.printText(46);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c47(){
+	public int c47(){
 		s.printText(47);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c48(){
+	public int c48(){
 		s.printText(48);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c49(){
+	public int c49(){
 		s.printText(49);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c50(){
+	public int c50(){
 		s.printText(50);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c51(){
+	public int c51(){
 		s.printText(51);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c52(){
+	public int c52(){
 		s.printText(52);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c53(){
+	public int c53(){
 		s.printText(53);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c54(){
+	public int c54(){
 		s.printText(54);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c55(){
+	public int c55(){
 		s.printText(55);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c56(){
+	public int c56(){
 		s.printText(56);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c57(){
+	public int c57(){
 		s.printText(57);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c58(){
+	public int c58(){
 		s.printText(58);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c59(){
+	public int c59(){
 		s.printText(59);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c60(){
+	public int c60(){
 		s.printText(60);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c61(){
+	public int c61(){
 		s.printText(61);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c62(){
+	public int c62(){
 		s.printText(62);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c63(){
+	public int c63(){
 		s.printText(63);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c64(){
+	public int c64(){
 		s.printText(64);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c65(){
+	public int c65(){
 		s.printText(65);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c66(){
+	public int c66(){
 		s.printText(66);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c67(){
+	public int c67(){
 		s.printText(67);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c68(){
+	public int c68(){
 		s.printText(68);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c69(){
+	public int c69(){
 		s.printText(69);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c70(){
+	public int c70(){
 		s.printText(70);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c71(){
+	public int c71(){
 		s.printText(71);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c72(){
+	public int c72(){
 		s.printText(72);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c73(){
+	public int c73(){
 		s.printText(73);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c74(){
+	public int c74(){
 		s.printText(74);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c75(){
+	public int c75(){
 		s.printText(75);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c76(){
+	public int c76(){
 		s.printText(76);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c77(){
+	public int c77(){
 		s.printText(77);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c78(){
+	public int c78(){
 		s.printText(78);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c79(){
+	public int c79(){
 		s.printText(79);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c80(){
+	public int c80(){
 		s.printText(80);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c81(){
+	public int c81(){
 		s.printText(81);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c82(){
+	public int c82(){
 		s.printText(82);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c83(){
+	public int c83(){
 		s.printText(83);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c84(){
+	public int c84(){
 		s.printText(84);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c85(){
+	public int c85(){
 		s.printText(85);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c86(){
+	public int c86(){
 		s.printText(86);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c87(){
+	public int c87(){
 		s.printText(87);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c88(){
+	public int c88(){
 		s.printText(88);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c89(){
+	public int c89(){
 		s.printText(89);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c90(){
+	public int c90(){
 		s.printText(90);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c91(){
+	public int c91(){
 		s.printText(91);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c92(){
+	public int c92(){
 		s.printText(92);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c93(){
+	public int c93(){
 		s.printText(93);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c94(){
+	public int c94(){
 		s.printText(94);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c95(){
+	public int c95(){
 		s.printText(95);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c96(){
+	public int c96(){
 		s.printText(96);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c97(){
+	public int c97(){
 		s.printText(97);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c98(){
+	public int c98(){
 		s.printText(98);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c99(){
+	public int c99(){
 		s.printText(99);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c100(){
+	public int c100(){
 		s.printText(100);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c101(){
+	public int c101(){
 		s.printText(101);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c102(){
+	public int c102(){
 		s.printText(102);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c103(){
+	public int c103(){
 		s.printText(103);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c104(){
+	public int c104(){
 		s.printText(104);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c105(){
+	public int c105(){
 		s.printText(105);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c106(){
+	public int c106(){
 		s.printText(106);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c107(){
+	public int c107(){
 		s.printText(107);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c108(){
+	public int c108(){
 		s.printText(108);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c109(){
+	public int c109(){
 		s.printText(109);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c110(){
+	public int c110(){
 		s.printText(110);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c111(){
+	public int c111(){
 		s.printText(111);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c112(){
+	public int c112(){
 		s.printText(112);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c113(){
+	public int c113(){
 		s.printText(113);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c114(){
+	public int c114(){
 		s.printText(114);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c115(){
+	public int c115(){
 		s.printText(115);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c116(){
+	public int c116(){
 		s.printText(116);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c117(){
+	public int c117(){
 		s.printText(117);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c118(){
+	public int c118(){
 		s.printText(118);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c119(){
+	public int c119(){
 		s.printText(119);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c120(){
+	public int c120(){
 		s.printText(120);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c121(){
+	public int c121(){
 		s.printText(121);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c122(){
+	public int c122(){
 		s.printText(122);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c123(){
+	public int c123(){
 		s.printText(123);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c124(){
+	public int c124(){
 		s.printText(124);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c125(){
+	public int c125(){
 		s.printText(125);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c126(){
+	public int c126(){
 		s.printText(126);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c127(){
+	public int c127(){
 		s.printText(127);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c128(){
+	public int c128(){
 		s.printText(128);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c129(){
+	public int c129(){
 		s.printText(129);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c130(){
+	public int c130(){
 		s.printText(130);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c131(){
+	public int c131(){
 		s.printText(131);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c132(){
+	public int c132(){
 		s.printText(132);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c133(){
+	public int c133(){
 		s.printText(133);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c134(){
+	public int c134(){
 		s.printText(134);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c135(){
+	public int c135(){
 		s.printText(135);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c136(){
+	public int c136(){
 		s.printText(136);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c137(){
+	public int c137(){
 		s.printText(137);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c138(){
+	public int c138(){
 		s.printText(138);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c139(){
+	public int c139(){
 		s.printText(139);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c140(){
+	public int c140(){
 		s.printText(140);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c141(){
+	public int c141(){
 		s.printText(141);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c142(){
+	public int c142(){
 		s.printText(142);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c143(){
+	public int c143(){
 		s.printText(143);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c144(){
+	public int c144(){
 		s.printText(144);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c145(){
+	public int c145(){
 		s.printText(145);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c146(){
+	public int c146(){
 		s.printText(146);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c147(){
+	public int c147(){
 		s.printText(147);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c148(){
+	public int c148(){
 		s.printText(148);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c149(){
+	public int c149(){
 		s.printText(149);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c150(){
+	public int c150(){
 		s.printText(150);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c151(){
+	public int c151(){
 		s.printText(151);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c152(){
+	public int c152(){
 		s.printText(152);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c153(){
+	public int c153(){
 		s.printText(153);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c154(){
+	public int c154(){
 		s.printText(154);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c155(){
+	public int c155(){
 		s.printText(155);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c156(){
+	public int c156(){
 		s.printText(156);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c157(){
+	public int c157(){
 		s.printText(157);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c158(){
+	public int c158(){
 		s.printText(158);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c159(){
+	public int c159(){
 		s.printText(159);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c160(){
+	public int c160(){
 		s.printText(160);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c161(){
+	public int c161(){
 		s.printText(161);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c162(){
+	public int c162(){
 		s.printText(162);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c163(){
+	public int c163(){
 		s.printText(163);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c164(){
+	public int c164(){
 		s.printText(164);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c165(){
+	public int c165(){
 		s.printText(165);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c166(){
+	public int c166(){
 		s.printText(166);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c167(){
+	public int c167(){
 		s.printText(167);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c168(){
+	public int c168(){
 		s.printText(168);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c169(){
+	public int c169(){
 		s.printText(169);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c170(){
+	public int c170(){
 		s.printText(170);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c171(){
+	public int c171(){
 		s.printText(171);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c172(){
+	public int c172(){
 		s.printText(172);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c173(){
+	public int c173(){
 		s.printText(173);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c174(){
+	public int c174(){
 		s.printText(174);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c175(){
+	public int c175(){
 		s.printText(175);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c176(){
+	public int c176(){
 		s.printText(176);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c177(){
+	public int c177(){
 		s.printText(177);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c178(){
+	public int c178(){
 		s.printText(178);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c179(){
+	public int c179(){
 		s.printText(179);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c180(){
+	public int c180(){
 		s.printText(180);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c181(){
+	public int c181(){
 		s.printText(181);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c182(){
+	public int c182(){
 		s.printText(182);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c183(){
+	public int c183(){
 		s.printText(183);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c184(){
+	public int c184(){
 		s.printText(184);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c185(){
+	public int c185(){
 		s.printText(185);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c186(){
+	public int c186(){
 		s.printText(186);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c187(){
+	public int c187(){
 		s.printText(187);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c188(){
+	public int c188(){
 		s.printText(188);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c189(){
+	public int c189(){
 		s.printText(189);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c190(){
+	public int c190(){
 		s.printText(190);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c191(){
+	public int c191(){
 		s.printText(191);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c192(){
+	public int c192(){
 		s.printText(192);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c193(){
+	public int c193(){
 		s.printText(193);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c194(){
+	public int c194(){
 		s.printText(194);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c195(){
+	public int c195(){
 		s.printText(195);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c196(){
+	public int c196(){
 		s.printText(196);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c197(){
+	public int c197(){
 		s.printText(197);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c198(){
+	public int c198(){
 		s.printText(198);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c199(){
+	public int c199(){
 		s.printText(199);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c200(){
+	public int c200(){
 		s.printText(200);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c201(){
+	public int c201(){
 		s.printText(201);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c202(){
+	public int c202(){
 		s.printText(202);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c203(){
+	public int c203(){
 		s.printText(203);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c204(){
+	public int c204(){
 		s.printText(204);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c205(){
+	public int c205(){
 		s.printText(205);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c206(){
+	public int c206(){
 		s.printText(206);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c207(){
+	public int c207(){
 		s.printText(207);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c208(){
+	public int c208(){
 		s.printText(208);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c209(){
+	public int c209(){
 		s.printText(209);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c210(){
+	public int c210(){
 		s.printText(210);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c211(){
+	public int c211(){
 		s.printText(211);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c212(){
+	public int c212(){
 		s.printText(212);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c213(){
+	public int c213(){
 		s.printText(213);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c214(){
+	public int c214(){
 		s.printText(214);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c215(){
+	public int c215(){
 		s.printText(215);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c216(){
+	public int c216(){
 		s.printText(216);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c217(){
+	public int c217(){
 		s.printText(217);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c218(){
+	public int c218(){
 		s.printText(218);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c219(){
+	public int c219(){
 		s.printText(219);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c220(){
+	public int c220(){
 		s.printText(220);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c221(){
+	public int c221(){
 		s.printText(221);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c222(){
+	public int c222(){
 		s.printText(222);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c223(){
+	public int c223(){
 		s.printText(223);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c224(){
+	public int c224(){
 		s.printText(224);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c225(){
+	public int c225(){
 		s.printText(225);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c226(){
+	public int c226(){
 		s.printText(226);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c227(){
+	public int c227(){
 		s.printText(227);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c228(){
+	public int c228(){
 		s.printText(228);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c229(){
+	public int c229(){
 		s.printText(229);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c230(){
+	public int c230(){
 		s.printText(230);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c231(){
+	public int c231(){
 		s.printText(231);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c232(){
+	public int c232(){
 		s.printText(232);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c233(){
+	public int c233(){
 		s.printText(233);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c234(){
+	public int c234(){
 		s.printText(234);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c235(){
+	public int c235(){
 		s.printText(235);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c236(){
+	public int c236(){
 		s.printText(236);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c237(){
+	public int c237(){
 		s.printText(237);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c238(){
+	public int c238(){
 		s.printText(238);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c239(){
+	public int c239(){
 		s.printText(239);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c240(){
+	public int c240(){
 		s.printText(240);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c241(){
+	public int c241(){
 		s.printText(241);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c242(){
+	public int c242(){
 		s.printText(242);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c243(){
+	public int c243(){
 		s.printText(243);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c244(){
+	public int c244(){
 		s.printText(244);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c245(){
+	public int c245(){
 		s.printText(245);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c246(){
+	public int c246(){
 		s.printText(246);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c247(){
+	public int c247(){
 		s.printText(247);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c248(){
+	public int c248(){
 		s.printText(248);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c249(){
+	public int c249(){
 		s.printText(249);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c250(){
+	public int c250(){
 		s.printText(250);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c251(){
+	public int c251(){
 		s.printText(251);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c252(){
+	public int c252(){
 		s.printText(252);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c253(){
+	public int c253(){
 		s.printText(253);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c254(){
+	public int c254(){
 		s.printText(254);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c255(){
+	public int c255(){
 		s.printText(255);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c256(){
+	public int c256(){
 		s.printText(256);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c257(){
+	public int c257(){
 		s.printText(257);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c258(){
+	public int c258(){
 		s.printText(258);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c259(){
+	public int c259(){
 		s.printText(259);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c260(){
+	public int c260(){
 		s.printText(260);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c261(){
+	public int c261(){
 		s.printText(261);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c262(){
+	public int c262(){
 		s.printText(262);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c263(){
+	public int c263(){
 		s.printText(263);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c264(){
+	public int c264(){
 		s.printText(264);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c265(){
+	public int c265(){
 		s.printText(265);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c266(){
+	public int c266(){
 		s.printText(266);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c267(){
+	public int c267(){
 		s.printText(267);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c268(){
+	public int c268(){
 		s.printText(268);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c269(){
+	public int c269(){
 		s.printText(269);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c270(){
+	public int c270(){
 		s.printText(270);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c271(){
+	public int c271(){
 		s.printText(271);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c272(){
+	public int c272(){
 		s.printText(272);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c273(){
+	public int c273(){
 		s.printText(273);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c274(){
+	public int c274(){
 		s.printText(274);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c275(){
+	public int c275(){
 		s.printText(275);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c276(){
+	public int c276(){
 		s.printText(276);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c277(){
+	public int c277(){
 		s.printText(277);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c278(){
+	public int c278(){
 		s.printText(278);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c279(){
+	public int c279(){
 		s.printText(279);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c280(){
+	public int c280(){
 		s.printText(280);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c281(){
+	public int c281(){
 		s.printText(281);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c282(){
+	public int c282(){
 		s.printText(282);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c283(){
+	public int c283(){
 		s.printText(283);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c284(){
+	public int c284(){
 		s.printText(284);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c285(){
+	public int c285(){
 		s.printText(285);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c286(){
+	public int c286(){
 		s.printText(286);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c287(){
+	public int c287(){
 		s.printText(287);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c288(){
+	public int c288(){
 		s.printText(288);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c289(){
+	public int c289(){
 		s.printText(289);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c290(){
+	public int c290(){
 		s.printText(290);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c291(){
+	public int c291(){
 		s.printText(291);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c292(){
+	public int c292(){
 		s.printText(292);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c293(){
+	public int c293(){
 		s.printText(293);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c294(){
+	public int c294(){
 		s.printText(294);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c295(){
+	public int c295(){
 		s.printText(295);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c296(){
+	public int c296(){
 		s.printText(296);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c297(){
+	public int c297(){
 		s.printText(297);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c298(){
+	public int c298(){
 		s.printText(298);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c299(){
+	public int c299(){
 		s.printText(299);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c300(){
+	public int c300(){
 		s.printText(300);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c301(){
+	public int c301(){
 		s.printText(301);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c302(){
+	public int c302(){
 		s.printText(302);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c303(){
+	public int c303(){
 		s.printText(303);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c304(){
+	public int c304(){
 		s.printText(304);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c305(){
+	public int c305(){
 		s.printText(305);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c306(){
+	public int c306(){
 		s.printText(306);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c307(){
+	public int c307(){
 		s.printText(307);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c308(){
+	public int c308(){
 		s.printText(308);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c309(){
+	public int c309(){
 		s.printText(309);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c310(){
+	public int c310(){
 		s.printText(310);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c311(){
+	public int c311(){
 		s.printText(311);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c312(){
+	public int c312(){
 		s.printText(312);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c313(){
+	public int c313(){
 		s.printText(313);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c314(){
+	public int c314(){
 		s.printText(314);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c315(){
+	public int c315(){
 		s.printText(315);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c316(){
+	public int c316(){
 		s.printText(316);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c317(){
+	public int c317(){
 		s.printText(317);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c318(){
+	public int c318(){
 		s.printText(318);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c319(){
+	public int c319(){
 		s.printText(319);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c320(){
+	public int c320(){
 		s.printText(320);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c321(){
+	public int c321(){
 		s.printText(321);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c322(){
+	public int c322(){
 		s.printText(322);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c323(){
+	public int c323(){
 		s.printText(323);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c324(){
+	public int c324(){
 		s.printText(324);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c325(){
+	public int c325(){
 		s.printText(325);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c326(){
+	public int c326(){
 		s.printText(326);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c327(){
+	public int c327(){
 		s.printText(327);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c328(){
+	public int c328(){
 		s.printText(328);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c329(){
+	public int c329(){
 		s.printText(329);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c330(){
+	public int c330(){
 		s.printText(330);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c331(){
+	public int c331(){
 		s.printText(331);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c332(){
+	public int c332(){
 		s.printText(332);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c333(){
+	public int c333(){
 		s.printText(333);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c334(){
+	public int c334(){
 		s.printText(334);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c335(){
+	public int c335(){
 		s.printText(335);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c336(){
+	public int c336(){
 		s.printText(336);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c337(){
+	public int c337(){
 		s.printText(337);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c338(){
+	public int c338(){
 		s.printText(338);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c339(){
+	public int c339(){
 		s.printText(339);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c340(){
+	public int c340(){
 		s.printText(340);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c341(){
+	public int c341(){
 		s.printText(341);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c342(){
+	public int c342(){
 		s.printText(342);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c343(){
+	public int c343(){
 		s.printText(343);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c344(){
+	public int c344(){
 		s.printText(344);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c345(){
+	public int c345(){
 		s.printText(345);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c346(){
+	public int c346(){
 		s.printText(346);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c347(){
+	public int c347(){
 		s.printText(347);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c348(){
+	public int c348(){
 		s.printText(348);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c349(){
+	public int c349(){
 		s.printText(349);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c350(){
+	public int c350(){
 		s.printText(350);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c351(){
+	public int c351(){
 		s.printText(351);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c352(){
+	public int c352(){
 		s.printText(352);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c353(){
+	public int c353(){
 		s.printText(353);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c354(){
+	public int c354(){
 		s.printText(354);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c355(){
+	public int c355(){
 		s.printText(355);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c356(){
+	public int c356(){
 		s.printText(356);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c357(){
+	public int c357(){
 		s.printText(357);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c358(){
+	public int c358(){
 		s.printText(358);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c359(){
+	public int c359(){
 		s.printText(359);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c360(){
+	public int c360(){
 		s.printText(360);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c361(){
+	public int c361(){
 		s.printText(361);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c362(){
+	public int c362(){
 		s.printText(362);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c363(){
+	public int c363(){
 		s.printText(363);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c364(){
+	public int c364(){
 		s.printText(364);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c365(){
+	public int c365(){
 		s.printText(365);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c366(){
+	public int c366(){
 		s.printText(366);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c367(){
+	public int c367(){
 		s.printText(367);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c368(){
+	public int c368(){
 		s.printText(368);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c369(){
+	public int c369(){
 		s.printText(369);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c370(){
+	public int c370(){
 		s.printText(370);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c371(){
+	public int c371(){
 		s.printText(371);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c372(){
+	public int c372(){
 		s.printText(372);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c373(){
+	public int c373(){
 		s.printText(373);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c374(){
+	public int c374(){
 		s.printText(374);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c375(){
+	public int c375(){
 		s.printText(375);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c376(){
+	public int c376(){
 		s.printText(376);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c377(){
+	public int c377(){
 		s.printText(377);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c378(){
+	public int c378(){
 		s.printText(378);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c379(){
+	public int c379(){
 		s.printText(379);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c380(){
+	public int c380(){
 		s.printText(380);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c381(){
+	public int c381(){
 		s.printText(381);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c382(){
+	public int c382(){
 		s.printText(382);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c383(){
+	public int c383(){
 		s.printText(383);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c384(){
+	public int c384(){
 		s.printText(384);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c385(){
+	public int c385(){
 		s.printText(385);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c386(){
+	public int c386(){
 		s.printText(386);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c387(){
+	public int c387(){
 		s.printText(387);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c388(){
+	public int c388(){
 		s.printText(388);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c389(){
+	public int c389(){
 		s.printText(389);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c390(){
+	public int c390(){
 		s.printText(390);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c391(){
+	public int c391(){
 		s.printText(391);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c392(){
+	public int c392(){
 		s.printText(392);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c393(){
+	public int c393(){
 		s.printText(393);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c394(){
+	public int c394(){
 		s.printText(394);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c395(){
+	public int c395(){
 		s.printText(395);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c396(){
+	public int c396(){
 		s.printText(396);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c397(){
+	public int c397(){
 		s.printText(397);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c398(){
+	public int c398(){
 		s.printText(398);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c399(){
+	public int c399(){
 		s.printText(399);
+		int nextChap=0;
+		return nextChap;
 	}
 
-	public static void c400(){
+	public int c400(){
 		s.printText(400);
+		int nextChap=401;
+		return nextChap;
 	}
-
-
-	
 
 }

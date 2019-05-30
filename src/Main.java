@@ -60,7 +60,7 @@ public class Main {
 	public int c0(){
 		s.printText(0);
 		//Go to chapter 1
-		int nextChap=12;
+		int nextChap=1;
 		in.nextLine();
 		return nextChap;
 	}
@@ -392,6 +392,7 @@ public class Main {
 		s.printText(26);
 		int nextChap=0;
 		int dice=p.roll2Dice();
+		System.out.println("You rolled "+dice+" and your skill is "+p.getSkill());
 		if (dice<=p.getSkill()) {
 			nextChap=55;
 		}else {
@@ -403,61 +404,104 @@ public class Main {
 
 	public int c27(){
 		s.printText(27);
-		int nextChap=0;
+		int nextChap=78;
+		p.setCrippledServantTalk(true);
+		input();
 		return nextChap;
 	}
 
 	public int c28(){
 		s.printText(28);
-		int nextChap=0;
+		int nextChap=213;
+		p.setDwarfChainmail(true);
+		p.setSkill(p.getSkill()+1);
+		input();
 		return nextChap;
 	}
 
 	public int c29(){
 		s.printText(29);
-		int nextChap=0;
+		int nextChap=90;
+		input();
 		return nextChap;
 	}
 
 	public int c30(){
 		s.printText(30);
 		int nextChap=0;
+		if (p.tryLuck()) {
+			nextChap=160;
+		}else {
+			nextChap=319;
+		}
+		input();
 		return nextChap;
 	}
 
 	public int c31(){
 		s.printText(31);
 		int nextChap=0;
+		if (p.isSapphire()) {
+			nextChap=376;
+		}else {
+			nextChap=3;
+		}
+		input();
 		return nextChap;
 	}
 
 	public int c32(){
 		s.printText(32);
-		int nextChap=0;
+		int nextChap=37;
+		input();
 		return nextChap;
 	}
 
 	public int c33(){
 		s.printText(33);
-		int nextChap=0;
+		int nextChap=292;
+		p.setBrassBell(true);
+		p.setGrapplingIron(true);
+		p.setSkill(p.getSkill()-3);
+		input();
 		return nextChap;
 	}
 
 	public int c34(){
 		s.printText(34);
-		int nextChap=0;
+		int nextChap=500;
 		return nextChap;
 	}
 
 	public int c35(){
 		s.printText(35);
 		int nextChap=0;
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=333;
+			break;
+		case 2:
+			nextChap=124;
+			break;
+		default:
+			nextChap=35;
+		}
+
 		return nextChap;
 	}
 
 	public int c36(){
 		s.printText(36);
 		int nextChap=0;
+		int dice=p.roll2Dice();
+		System.out.println("You rolled "+dice+". Your skill is "+p.getSkill()+" and your stamina is "+p.getStamina());
+		if (dice<=p.getSkill() && dice<=p.getStamina()) {
+			nextChap=340;
+		}else {
+			nextChap=7;
+		}
+		input();
 		return nextChap;
 	}
 

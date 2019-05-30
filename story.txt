@@ -2373,5 +2373,5 @@ Now the secret of Fang is known.
 As the Baron rises from his chair, you climb the steps to the rostrum, bow down before him and watch as his cold eyes stare at you in utter disbelief.
 You smile grimly as he offers you his outstreteched hand.
 To the deafening noise of the cheering people of Fang, Baron Sukumvit opens the chest containing your prize of 10,000 Gold Pieces.
-Then he pladces a laurel crown on your head and proclaims you the Champion of Deathtrap Dungeon.
+Then he places a laurel crown on your head and proclaims you the Champion of Deathtrap Dungeon.
 <END>

@@ -12,6 +12,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		//MAIN PROGRAM
 		//Create a Character
+		Main m=new Main();
 		p=new Character();
 		//Create a Story class. Read in the story and save it.
 		s=new Story();
@@ -19,7 +20,7 @@ public class Main {
 		//Start in Chapter 1
 		int nextChap=0;
 		do {
-			Main m=new Main();
+			
 			Method x=m.getClass().getMethod("c"+nextChap);
 			nextChap=(int)x.invoke(m);
 		}while (nextChap<401);
@@ -508,12 +509,30 @@ public class Main {
 	public int c37(){
 		s.printText(37);
 		int nextChap=0;
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=351;
+			break;
+		case 2:
+			nextChap=239;
+			break;
+		default:
+			nextChap=37;
+		}
+		
 		return nextChap;
 	}
 
 	public int c38(){
 		s.printText(38);
-		int nextChap=0;
+		int nextChap=109;
+		input();
+		p.setStamina(p.getStamina()-3);
+		if (p.getStamina()<=0) {
+			System.out.println("You're dead");
+			nextChap=500;
+		}
 		return nextChap;
 	}
 

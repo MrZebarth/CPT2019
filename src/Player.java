@@ -14,6 +14,11 @@ public interface Player {
 	public boolean battle(int eSkill, int eStamina, String eName);
 	
 	/*
+	 * Battle with escape. Just like a battle, but return a postive number if the player wins, a negative if they choose escape, and a 0 if they die.
+	 */
+	public int battleWithEscape(int eSkill, int eStamina, String eName);
+	
+	/*
 	 * Eat a provision. Restores 4 stamina. Decreases one provision. Cannot be used in battle. Cannot be used if provisions==0.
 	 * Return true if successful, return false otherwise.
 	 */

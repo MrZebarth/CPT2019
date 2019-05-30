@@ -79,13 +79,28 @@ public class Character implements Player {
 	@Override
 	public boolean tryLuck() {
 		// TODO Auto-generated method stub
-		return false;
+		int die=roll2Dice();
+		if (die<=luck) {
+			luck--;
+			return true;
+		}else {
+			luck--;
+			return false;
+		}
+		
 	}
 
 	@Override
 	public boolean battle(int eSkill, int eStamina, String eName) {
 		// TODO Auto-generated method stub
 		return false;
+	}
+
+	
+	@Override
+	public int battleWithEscape(int eSkill, int eStamina, String eName) {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 
 	@Override
@@ -159,37 +174,37 @@ public class Character implements Player {
 	@Override
 	public int getSkill() {
 		// TODO Auto-generated method stub
-		return 0;
+		return skill;
 	}
 
 	@Override
 	public void setSkill(int adjust) {
 		// TODO Auto-generated method stub
-
+		skill=adjust;
 	}
 
 	@Override
 	public int getStamina() {
 		// TODO Auto-generated method stub
-		return 0;
+		return stamina;
 	}
 
 	@Override
 	public void setStamina(int adjust) {
 		// TODO Auto-generated method stub
-
+		stamina=adjust;
 	}
 
 	@Override
 	public int getLuck() {
 		// TODO Auto-generated method stub
-		return 0;
+		return luck;
 	}
 
 	@Override
 	public void setLuck(int adjust) {
 		// TODO Auto-generated method stub
-
+		luck=adjust;
 	}
 
 	public int getStaminaInitial() {

@@ -323,36 +323,81 @@ public class Main {
 	public int c21(){
 		s.printText(21);
 		int nextChap=0;
+		if (p.singleAttackRound(12, 8, "Bloodbeast")) {
+			if (p.tryLuck()) {
+				nextChap=97;
+			}else {
+				nextChap=279;
+			}
+		}else {
+			nextChap=500;
+		}
 		return nextChap;
 	}
 
 	public int c22(){
 		s.printText(22);
 		int nextChap=0;
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=63;
+			break;
+		case 2:
+			nextChap=184;
+			break;
+		case 3:
+			nextChap=311;
+			break;
+		default:
+			nextChap=22;
+		}
+		
 		return nextChap;
 	}
 
 	public int c23(){
 		s.printText(23);
-		int nextChap=0;
+		int nextChap=154;
+		input();
 		return nextChap;
 	}
 
 	public int c24(){
 		s.printText(24);
 		int nextChap=0;
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=324;
+			break;
+		case 2:
+			nextChap=188;
+			break;
+		default:
+			nextChap=24;
+		}
+
 		return nextChap;
 	}
 
 	public int c25(){
 		s.printText(25);
-		int nextChap=0;
+		int nextChap=197;
+		input();
 		return nextChap;
 	}
 
 	public int c26(){
 		s.printText(26);
 		int nextChap=0;
+		int dice=p.roll2Dice();
+		if (dice<=p.getSkill()) {
+			nextChap=55;
+		}else {
+			nextChap=202;
+		}
+		input();
 		return nextChap;
 	}
 

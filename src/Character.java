@@ -64,6 +64,7 @@ public class Character implements Player {
 	private boolean jugOfAcid=false;
 	private boolean trapDetectionPotion=false;
 	private boolean elfBread=false;
+	private boolean dwarfChainmail=false;
 	
 	
 	
@@ -661,6 +662,14 @@ public class Character implements Player {
 
 	public void setElfBread(boolean elfBread) {
 		this.elfBread = elfBread;
+	}
+
+	public boolean isDwarfChainmail() {
+		return dwarfChainmail;
+	}
+
+	public void setDwarfChainmail(boolean dwarfChainmail) {
+		this.dwarfChainmail = dwarfChainmail;
 	}
 	
 	

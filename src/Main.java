@@ -25,130 +25,298 @@ public class Main {
 		}while (nextChap<401);
 	}
 	
+	
+	public int input() {
+		String x=in.nextLine().toLowerCase();
+		if (x.startsWith("inv")) {
+			p.inventory();
+			return 0;
+		}else if (x.equals("escape")) {
+			return -1;
+		}else if (x.equals("provisions")) {
+			p.provision();
+			return 0;
+		}else if (x.contains("stamina")) {
+			p.potionStamina();
+			return 0;
+		}else if (x.contains("skill")) {
+			p.potionSkill();
+			return 0;
+		}else if (x.contains("fortune")) {
+			p.potionFortune();
+			return 0;
+		}else if (x.equals("")) {
+			return 0;
+		}
+		else {
+			try {
+				return (Integer.parseInt(x));
+			}catch (NumberFormatException e) {
+				return 0;
+			}
+		}
+	}
+	
 	public int c0(){
 		s.printText(0);
-		int nextChap=400;
+		//Go to chapter 1
+		int nextChap=12;
 		in.nextLine();
 		return nextChap;
 	}
 
 	public int c1(){
 		s.printText(1);
-		int nextChap=0;
+		int nextChap=this.input();
+		switch (nextChap) {
+		case 1:
+			nextChap=270;
+			break;
+		case 2:
+			nextChap=66;
+			break;
+		default:
+			nextChap=1;
+			break;
+		}
+		
 		return nextChap;
 	}
 
 	public int c2(){
 		s.printText(2);
-		int nextChap=0;
+		int nextChap=500;
 		return nextChap;
 	}
 
 	public int c3(){
 		s.printText(3);
-		int nextChap=0;
+		int nextChap=500;
 		return nextChap;
 	}
 
 	public int c4(){
 		s.printText(4);
-		int nextChap=0;
+		int nextChap=500;
 		return nextChap;
 	}
 
 	public int c5(){
 		s.printText(5);
 		int nextChap=0;
+		input();
+		if (p.tryLuck()) {
+			nextChap=185;
+		}else {
+			nextChap=395;
+		}
 		return nextChap;
 	}
 
 	public int c6(){
 		s.printText(6);
 		int nextChap=0;
+		if (p.battle(11, 11, "Manticore")) {
+			nextChap=364;
+		}else {
+			System.out.println("You have died");
+			nextChap=500;
+		}
 		return nextChap;
 	}
 
 	public int c7(){
 		s.printText(7);
-		int nextChap=0;
+		int nextChap=500;
 		return nextChap;
 	}
 
 	public int c8(){
 		s.printText(8);
-		int nextChap=0;
+		int nextChap=500;
 		return nextChap;
 	}
 
 	public int c9(){
 		s.printText(9);
 		int nextChap=0;
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=158;
+			break;
+		case 2:
+			nextChap=375;
+			break;
+		default:
+			nextChap=9;
+		}
 		return nextChap;
 	}
 
 	public int c10(){
 		s.printText(10);
 		int nextChap=0;
+		input();
+		p.setProvisions(0);
+		if (p.isIronKey()) {
+			nextChap=86;
+		}else {
+			nextChap=276;
+		}
+		
 		return nextChap;
 	}
 
 	public int c11(){
 		s.printText(11);
 		int nextChap=0;
+		p.setEmerald(true);
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=140;
+			break;
+		case 2:
+			nextChap=46;
+			break;
+		default:
+			nextChap=11;
+		}
 		return nextChap;
 	}
 
 	public int c12(){
 		s.printText(12);
 		int nextChap=0;
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=382;
+			break;
+		case 2:
+			nextChap=195;
+			break;
+		case 3:
+			nextChap=250;
+			break;
+		default:
+			nextChap=12;
+			break;
+		}
 		return nextChap;
 	}
 
 	public int c13(){
 		s.printText(13);
 		int nextChap=0;
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=147;
+			break;
+		case 2:
+			nextChap=182;
+			break;
+		default:
+			nextChap=13;
+		}
 		return nextChap;
 	}
 
 	public int c14(){
 		s.printText(14);
 		int nextChap=0;
+		int x=input();
+		switch (x) {
+		case 1:
+			nextChap=157;
+			break;
+		case 2:
+			nextChap=310;
+			break;
+		default:
+			nextChap=14;
+		}
 		return nextChap;
 	}
 
 	public int c15(){
 		s.printText(15);
-		int nextChap=0;
+		int nextChap=74;
+		input();
 		return nextChap;
 	}
 
 	public int c16(){
 		s.printText(16);
 		int nextChap=0;
+		int die=p.roll1Die()+1;
+		p.setStamina(p.getStamina()-die);
+		System.out.println("You lost "+die+" stamina.");
+		if (p.getStamina()<=0) {
+			System.out.println("You are dead");
+			nextChap=500;
+		}else {
+			int x=input();
+			switch (x) {
+			case 1:
+				nextChap=16;
+				break;
+			case 2:
+				nextChap=392;
+				break;
+			case 3:
+				nextChap=177;
+				break;
+			case 4:
+				nextChap=287;
+				break;
+			case 5:
+				nextChap=132;
+				break;
+			case 6:
+				nextChap=249;
+				break;
+			default:
+				nextChap=16;
+			}
+		}
 		return nextChap;
 	}
 
 	public int c17(){
 		s.printText(17);
-		int nextChap=0;
+		int nextChap=500;
 		return nextChap;
 	}
 
 	public int c18(){
 		s.printText(18);
 		int nextChap=0;
+		int die=p.roll2Dice();
+		System.out.println("You rolled "+die+" and your skill is "+p.getSkill());
+		if (die<=p.getSkill()) {
+			nextChap=55;
+		}else {
+			nextChap=202;
+		}
+		input();
 		return nextChap;
 	}
 
 	public int c19(){
 		s.printText(19);
-		int nextChap=0;
+		int nextChap=500;
 		return nextChap;
 	}
 
 	public int c20(){
 		s.printText(20);
-		int nextChap=0;
+		int nextChap=279;
+		p.setSkill(p.getSkill()-1);
+		p.setGold(p.getGold()+1);
+		input();
 		return nextChap;
 	}
 

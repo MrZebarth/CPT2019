@@ -1,3 +1,5 @@
+import java.util.Random;
+import java.util.Scanner;
 
 public class Character implements Player {
 
@@ -19,7 +21,7 @@ public class Character implements Player {
 	private boolean grapplingIron=false;
 	private boolean searchAlcove=false;
 	private boolean bloodbeastDescription=false;
-	private boolean openReadBook=false;
+	private boolean openRedBook=false;
 	private boolean boneRing=false;
 	private boolean skeletonWarriorParchmentPoem=false;
 	private boolean liquidInWounds=false;
@@ -65,6 +67,8 @@ public class Character implements Player {
 	private boolean trapDetectionPotion=false;
 	private boolean elfBread=false;
 	private boolean dwarfChainmail=false;
+	public Scanner in;
+	public Random rnd;
 	
 	
 	
@@ -73,7 +77,8 @@ public class Character implements Player {
 	 * Set up skill, stamina, luck, potion, provisions
 	 */
 	public Character() {
-		
+		in=new Scanner(System.in);
+		rnd=new Random();
 	}
 	
 	@Override
@@ -106,7 +111,15 @@ public class Character implements Player {
 	@Override
 	public boolean provision() {
 		// TODO Auto-generated method stub
-		return false;
+		if (provisions>0) {
+			provisions--;
+			stamina+=4;
+			return true;
+		}else {
+			System.out.println("You don't have any provisions left");
+			return false;
+		}
+		
 	}
 
 	@Override
@@ -142,13 +155,15 @@ public class Character implements Player {
 	@Override
 	public int roll2Dice() {
 		// TODO Auto-generated method stub
-		return 0;
+		int x=roll1Die()+roll1Die();
+		return x;
 	}
 
 	@Override
 	public int roll1Die() {
 		// TODO Auto-generated method stub
-		return 0;
+		int x=rnd.nextInt(6)+1;
+		return x;
 	}
 
 	@Override
@@ -319,12 +334,12 @@ public class Character implements Player {
 		this.bloodbeastDescription = bloodbeastDescription;
 	}
 
-	public boolean isOpenReadBook() {
-		return openReadBook;
+	public boolean isOpenRedBook() {
+		return openRedBook;
 	}
 
-	public void setOpenReadBook(boolean openReadBook) {
-		this.openReadBook = openReadBook;
+	public void setOpenRedBook(boolean openRedBook) {
+		this.openRedBook = openRedBook;
 	}
 
 	public boolean isBoneRing() {

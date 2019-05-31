@@ -109,6 +109,12 @@ public class Character implements Player {
 	}
 
 	@Override
+	public int battleWithRockGroub(int eSkill, int eStamina, String eName) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
 	public boolean provision() {
 		// TODO Auto-generated method stub
 		if (provisions>0) {

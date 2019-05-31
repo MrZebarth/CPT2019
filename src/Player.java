@@ -19,6 +19,13 @@ public interface Player {
 	public int battleWithEscape(int eSkill, int eStamina, String eName);
 	
 	/*
+	 * Battle with the Rock Grub. Regular battle, but have the option to escape after the first two rounds.
+	 * Return positive if won, negative if escape, 0 if lost.
+	 */
+	
+	public int battleWithRockGroub(int eSkill, int eStamina, String eName);
+	
+	/*
 	 * Eat a provision. Restores 4 stamina. Decreases one provision. Cannot be used in battle. Cannot be used if provisions==0.
 	 * Return true if successful, return false otherwise.
 	 */
